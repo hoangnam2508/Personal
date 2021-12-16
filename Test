@@ -50,3 +50,104 @@ https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png",TSport
 https://smart-tv.livedoomovie.com:4431/02_T_Sports_480p/chunklist.m3u8
+
+#EXTINF:-1,BEIN SPORT HD 1
+https://www.wopep.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1,BEIN SPORT HD 2
+https://www.wopep.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 1
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 2
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 3
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 4
+https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 5
+https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,True Sport hd 1
+https://wopep.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,True Sport hd 2
+https://wopep.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,True Sport hd 3
+https://wopep.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,True Sport hd 4
+https://wopep.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,tennis
+https://wopep.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1,NBA
+https://wopep.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1,Golf HD
+https://wopep.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1,True Sport 7
+https://wopep.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,sporttv1
+https://wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,sporttv2
+https://wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,sporttv3
+https://wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,sporttv4
+https://wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,sporttv5
+https://wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,bt sport1
+https://wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,bt sport2
+https://wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,SPOTV 
+https://wopep.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,SPOTV 2 
+https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 ,ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/live/penang189/penang189/6708.m3u8
+#EXTINF:-1 ,ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/live/penang189/penang189/6711.m3u8
+#EXTINF:-1 ,ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/live/penang189/penang189/6712.m3u8
+#EXTINF:-1,K SPORT 1 4K HEVC
+http://xfire.one:88/live/test1/test2/85190.m3u8
+#EXTINF:-1,K SPORT 4 4K HEVC
+http://xfire.one:88/live/test1/test2/85193.m3u8
+#EXTINF:-1,K SPORT 2 HD
+http://xfire.one:88/live/test1/test2/34215.m3u8
+#EXTINF:-1,K SPORT 3 HD
+http://xfire.one:88/live/test1/test2/34216.m3u8
+#EXTINF:-1,K SPORT 4 HD
+http://xfire.one:88/live/test1/test2/34217.m3u8
+#EXTINF:-1,K SPORT 5 HD
+http://xfire.one:88/live/test1/test2/34218.m3u8
+#EXTINF:-1,ONEGOLF
+http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
+#EXTINF:-1,SONY TEN 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1,SONY TEN 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1,SONY TEN 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1,SUPER SPORT 1 4K
+http://xfire.one:88/live/test1/test2/34196.m3u8
+#EXTINF:-1,SUPER SPORT 2 4K
+http://xfire.one:88/live/test1/test2/34197.m3u8
+#EXTINF:-1,SUPER SPORT 3 4K
+http://xfire.one:88/live/test1/test2/34198.m3u8
+#EXTINF:-1,SUPER SPORT 4 4K
+http://xfire.one:88/live/test1/test2/34199.m3u8
+#EXTINF:-1,SUPER SPORT 5 4K
+http://xfire.one:88/live/test1/test2/34200.m3u8
+#EXTINF:-1,SUPER SPORT 6 4K
+http://xfire.one:88/live/test1/test2/34201.m3u8
+#EXTINF:-1,SUPER SPORT 7 4K
+http://xfire.one:88/live/test1/test2/34202.m3u8
+#EXTINF:-1,SUPER SPORT 1 HD
+http://xfire.one:88/live/test1/test2/34188.m3u8
+#EXTINF:-1,SUPER SPORT 2 HD
+http://xfire.one:88/live/test1/test2/34195.m3u8
+#EXTINF:-1,SUPER SPORT 3 HD
+http://xfire.one:88/live/test1/test2/34190.m3u8
+#EXTINF:-1,SUPER SPORT 4 HD
+http://xfire.one:88/live/test1/test2/34191.m3u8
+#EXTINF:-1,SUPER SPORT 5 HD
+http://xfire.one:88/live/test1/test2/34192.m3u8
+#EXTINF:-1,TRING SPORT NEWS
+http://xfire.one:88/live/test1/test2/34213.m3u8
