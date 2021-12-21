@@ -384,8 +384,6 @@ https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="CATTV",MONO29
 https://cdn6.goprimetime.info/feed/202105171329/chmono29/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="CATTV",MONO29 PLUS
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="CATTV",NBT
 https://cdn6.goprimetime.info/feed/202105171329/chnbt/index.m3u8
 
