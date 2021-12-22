@@ -752,26 +752,25 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/MTQ4t49X/cctv6.jpg group-title="china2",CCTV6電影 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/c1f2npKb/CCTV-7-Logo.png group-title="china2",CCTV7國防軍事 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/KYKsvwSQ/cctv8.jpg group-title="china2",CCTV8電視劇 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/ZYPsR62k/image62356205657.png group-title="china2",CCTV9紀錄 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/wM9VJbPC/CCTV-10-Logo.png group-title="china2",CCTV10科教 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/wM9VJbPC/CCTV-10-Logo.png group-title="china2",CCTV11戲曲 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/k4mF3pn2/CCTV-12-Logo.png group-title="china2",CCTV12社會與法 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/xdKMR3Kn/cctv-13.jpg group-title="china2",CCTV13新聞 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/RVNt8BcP/cctv14.jpg group-title="china2",CCTV14少兒 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/7ZS58YbN/cctv15.jpg group-title="china2",CCTV15音樂 
- 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.postimg.cc/rybsDtrJ/CCTV-17-Logo.png group-title="china2",CCTV17農業農村 
-
-
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8 
 
 
 
