@@ -66,88 +66,63 @@ http://96.30.124.99:1935/edgepsi/psi-77.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Fuso",CH3 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/3hd/chunklist_Fuso_Uhd.m3u8
 
-
 #EXTINF:-1  group-title="Fuso",CH5 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/5hd/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",CH7 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/7hd/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",MCOT 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/mcothd/chunklist_Fuso_Uhd.m3u8
 
-
 #EXTINF:-1 group-title="Fuso",NBT 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",TPBS 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/thaipbs/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso" ,PPTV36 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/pptvhd/chunklist_Fuso_Uhd.m3u8
 
-
 #EXTINF:-1 group-title="Fuso",NEW 18 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",Nation 22 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/nationtv/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",Workpoint23 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunklist_Fuso_Uhd.m3u8
 
-
 #EXTINF:-1 group-title="Fuso",TNN 24 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/tnn/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",True4U 24 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/true4u/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",GMM25 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/gmm25/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",CH8 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/ch8/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",MONO 29 
-
 https://freelive2.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8 
 
 #EXTINF:-1 group-title="Fuso",ONE 31 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/onehd/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",THAIRATH 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/thairath/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",AMARIN 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/amarintv/chunklist_Fuso_Uhd.m3u8
 
-
 #EXTINF:-1 group-title="Fuso",NEWS 1 
-
 http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist_Fuso_Uhd.m3u8 
 
 #EXTINF:-1 group-title="Fuso",TOPNews 
-
 http://live.topnews.co.th/hls/topnews.m3
 
 
