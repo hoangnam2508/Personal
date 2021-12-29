@@ -168,11 +168,11 @@ http://freelive.inwstream.com:1935/freelive-edge/gmm/playlist.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="gmm25.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/gmm25.png?rev=8",GMM25
 http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="tnn16.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/tnn16.png?rev=8",TNN16 HD
-http://freelive.inwstream.com:1935/freelive-edge/tnn/playlist.m3u8
+http://freelive.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="true4u.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/true4u.png?rev=8",True4U HD
 http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="nation.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/nation.png?rev=8",Nation TV HD
-https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3
+http://freelive.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="topnews.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-02-01-084935.jpg?rev=8",Top News HD
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="voice.iptv36.my.to" group-title="THAI DTV" tvg-logo="https://iptv36.my.to/logo/voice.png?rev=8",Voice TV HD
