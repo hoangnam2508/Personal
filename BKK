@@ -21,27 +21,26 @@ https://www.xn--72czp5emaz0ab6b.com/player/c/5/MCOT-HD-5/37808.html
 https://www.xn--72czp5emaz0ab6b.com/player/c/9/PPTV-HD-9/37812.html
 
 #EXTINF:-1group-title="ThaiTV" ,TNN
-
+http://freelive.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
 
 #EXTINF:-1 group-title="ThaiTV" ,TRUE4U
-
+http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ThaiTV" ,GMM
 https://www.xn--72czp5emaz0ab6b.com/player/c/11/GMM-CHANNEL-HD-11/37817.html
 
 #EXTINF:-1 group-title="ThaiTV" ,ONE
-
+http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
 
 #EXTINF:-1 group-title="ThaiTV" ,MONO
-
+http://freelive.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8
 
 #EXTINF:-1 group-title="ThaiTV" ,WORKPOINT
 https://www.xn--72czp5emaz0ab6b.com/player/c/15/WORK-POINT-HD-15/37819.html
 
 #EXTINF:-1 group-title="ThaiTV" ,Thairath HD
 https://www.xn--72czp5emaz0ab6b.com/player/c/8/Thairath-TV-HD-8/37811.html
-
 
 #EXTINF:-1 group-title="ThaiTV" ,PBS
 https://www.xn--72czp5emaz0ab6b.com/player/c/7/THAI-PBS-HD-7/37810.html
@@ -50,13 +49,36 @@ https://www.xn--72czp5emaz0ab6b.com/player/c/7/THAI-PBS-HD-7/37810.html
 https://www.xn--72czp5emaz0ab6b.com/player/c/6/NBT-HD-6/37808.html
 
 #EXTINF:-1 group-title="ThaiTV" ,NATION
-
-
+http://freelive.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
 
 #EXTINF:-1 group-title="ThaiTV" ,Amarin
 https://www.xn--72czp5emaz0ab6b.com/player/c/10/AMARIN-HD-10/37816.html
 
 #EXTINF:-1 group-title="ThaiTV" ,TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:-1 group-title="ThaiTV" ,Bein sport 1 Thailand 
+https://www.xn--72czp5emaz0ab6b.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html 
+#EXTINF:-1 group-title="ThaiTV" ,Bein sport 2 Thailand 
+https://www.xn--72czp5emaz0ab6b.com/player/c/19/BEIN-SPORT-HD-2-19/37823.html 
+#EXTINF:-1 group-title="ThaiTV" ,Premier Football HD1 
+https://www.xn--72czp5emaz0ab6b.com/player/c/151/Premier-Football-HD-1-151/37937.html 
+#EXTINF:-1 group-title="ThaiTV" ,Premier Football HD2 
+https://www.xn--72czp5emaz0ab6b.com/player/c/152/Premier-Football-HD-2-152/37939.html 
+#EXTINF:-1 group-title="ThaiTV" ,Premier Football HD3 
+https://www.xn--72czp5emaz0ab6b.com/player/c/153/Premier-Football-HD-3-153/37941.html 
+#EXTINF:-1 group-title="ThaiTV" ,Premier Football HD4 
+https://www.xn--72czp5emaz0ab6b.com/player/c/154/Premier-Football-HD-4-154/37943.html 
+#EXTINF:-1 group-title="ThaiTV" ,Premier Football HD5
+https://www.xn--72czp5emaz0ab6b.com/channel/155/Premier-Football-HD-5-155.html 
+#EXTINF:-1 group-title="ThaiTV" ,TRUE SPORT HD1 
+https://www.xn--72czp5emaz0ab6b.com/player/c/22/TRUE-SPORT-HD1-22/37825.html 
+#EXTINF:-1 group-title="ThaiTV" ,TRUE SPORT HD2 
+https://www.xn--72czp5emaz0ab6b.com/player/c/23/TRUE-SPORT-HD2-23/37829.html 
+#EXTINF:-1 group-title="ThaiTV" ,TRUE SPORT HD3 
+https://www.xn--72czp5emaz0ab6b.com/player/c/24/TRUE-SPORT-HD3-24/37830.html
+
+
 
 
 
