@@ -1,0 +1,818 @@
+#EXTINF:-1,CCTV-1 HD
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1,CCTV-1HK version HD
+http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
+#EXTINF:-1,CCTV-2 HD
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1,CCTV-3 HD
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1,CCTV-4 HD
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1,CCTV-5 HD
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1,CCTV-5+HD
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1,CCTV-6 HD
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1,CCTV-7 HD
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1,CCTV-8 HD
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1,CCTV-9 HD
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1,CCTV-10 HD
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1,CCTV-11 HD
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1,CCTV-12 HD
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1,CCTV-13 HD
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1,CCTV-14 HD
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1,CCTV-15 HD
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1,CCTV-16 HD
+http://iptv.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1,CCTV-17 HD
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1,CCTV-4K Ultra HD
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:-1,CGTN HD
+http://iptv.tvfix.org/hls/cgtnhd.m3u8
+#EXTINF:-1,CGTN Record HD
+http://iptv.tvfix.org/hls/cgtndochd.m3u8
+#EXTINF:-1,CGTN French HD
+http://iptv.tvfix.org/hls/cgtnfhd.m3u8
+#EXTINF:-1,CGTN Russian HD
+http://iptv.tvfix.org/hls/cgtnehd.m3u8
+#EXTINF:-1,CGTN Arabic HD
+http://iptv.tvfix.org/hls/cgtnahd.m3u8
+#EXTINF:-1,CGTN Spanish HD
+http://iptv.tvfix.org/hls/cgtnxhd.m3u8
+#EXTINF:-1,Beijing Satellite TV HD
+http://iptv.tvfix.org/hls/brtv1hd.m3u8
+#EXTINF:-1,Hunan Satellite TV HD
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1,Zhejiang Satellite TV HD
+http://iptv.tvfix.org/hls/zjhd.m3u8
+#EXTINF:-1,Jiangsu Satellite TV HD
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1,Dragon TV HD
+http://iptv.tvfix.org/hls/dfhd.m3u8
+#EXTINF:-1,Anhui Satellite TV HD
+http://iptv.tvfix.org/hls/ahhd.m3u8
+#EXTINF:-1,Heilongjiang Satellite TV HD
+http://iptv.tvfix.org/hls/hljhd.m3u8
+#EXTINF:-1,Liaoning Satellite TV HD
+http://iptv.tvfix.org/hls/lnhd.m3u8
+#EXTINF:-1,Shenzhen Satellite TV HD
+http://iptv.tvfix.org/hls/szhd.m3u8
+#EXTINF:-1,Guangdong Satellite TV HD
+http://iptv.tvfix.org/hls/gdhd.m3u8
+#EXTINF:-1,Tianjin Satellite TV HD
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:-1,Hubei Satellite TV HD
+http://iptv.tvfix.org/hls/hbhd.m3u8
+#EXTINF:-1,Shandong Satellite TV HD
+http://iptv.tvfix.org/hls/sdhd.m3u8
+#EXTINF:-1,Chongqing Satellite TV HD
+http://iptv.tvfix.org/hls/cqhd.m3u8
+#EXTINF:-1,Golden Eagle Documentary HD
+http://iptv.tvfix.org/hls/gedocu.m3u8
+#EXTINF:-1,Fujian Southeast TV HD
+http://iptv.tvfix.org/hls/dnhd.m3u8
+#EXTINF:-1,Sichuan Satellite TV HD
+http://iptv.tvfix.org/hls/schd.m3u8
+#EXTINF:-1,Hebei Satellite TV HD
+http://iptv.tvfix.org/hls/hebhd.m3u8
+#EXTINF:-1,Jiangxi Satellite TV HD
+http://iptv.tvfix.org/hls/jxhd.m3u8
+#EXTINF:-1,Henan Satellite TV HD
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1,Guangxi Satellite TV HD
+http://iptv.tvfix.org/hls/gxhd.m3u8
+#EXTINF:-1,Jilin Satellite TV HD
+http://iptv.tvfix.org/hls/jlhd.m3u8
+#EXTINF:-1,China Education TV 1 HD
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
+#EXTINF:-1,Hainan Satellite TV HD
+http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:-1,Guizhou Satellite TV HD
+http://iptv.tvfix.org/hls/gzhd.m3u8
+#EXTINF:-1,Beijing literature and art HD
+http://iptv.tvfix.org/hls/brtv2hd.m3u8
+#EXTINF:-1,Beijing Science and Education HD
+http://iptv.tvfix.org/hls/brtv3hd.m3u8
+#EXTINF:-1,Beijing film and television HD
+http://iptv.tvfix.org/hls/brtv4hd.m3u8
+#EXTINF:-1,Beijing Finance HD
+http://iptv.tvfix.org/hls/brtv5hd.m3u8
+#EXTINF:-1,Beijing life HD
+http://iptv.tvfix.org/hls/brtv7hd.m3u8
+#EXTINF:-1,Beijing Youth HD
+http://iptv.tvfix.org/hls/brtv8hd.m3u8
+#EXTINF:-1,Beijing News HD
+http://iptv.tvfix.org/hls/brtv9hd.m3u8
+#EXTINF:-1,Beijing Kaku Kids HD
+http://iptv.tvfix.org/hls/brtv10hd.m3u8
+#EXTINF:-1,Beijing Winter Olympics Documentary HD
+http://iptv.tvfix.org/hls/brtv11hd.m3u8
+#EXTINF:-1,Shanghai News Comprehensive HD
+http://iptv.tvfix.org/hls/shxwzhhd.m3u8
+#EXTINF:-1,Shanghai Oriental Film and Television
+http://iptv.tvfix.org/hls/shdfyshd.m3u8
+#EXTINF:-1,Shanghai Metropolitan Channel HD
+http://iptv.tvfix.org/hls/shdspdhd.m3u8
+#EXTINF:-1,Shanghai Foreign Language Channel HD
+http://iptv.tvfix.org/hls/shwypdhd.m3u8
+#EXTINF:-1,Five Star Sports HD
+http://iptv.tvfix.org/hls/wxtyhd.m3u8
+#EXTINF:-1,speed car hd
+http://iptv.tvfix.org/hls/jsqchd.m3u8
+#EXTINF:-1,Madden Sports HD
+http://iptv.tvfix.org/hls/jbtyhd.m3u8
+#EXTINF:-1,New Vision HD
+http://iptv.tvfix.org/hls/xsjhd.m3u8
+#EXTINF:-1,Glamour Football HD
+http://iptv.tvfix.org/hls/mlzqhd.m3u8
+#EXTINF:-1,Game situation HD
+http://iptv.tvfix.org/hls/yxfyhd.m3u8
+#EXTINF:-1,Full documentary HD
+http://iptv.tvfix.org/hls/qjshd.m3u8
+#EXTINF:-1,Documentary Humanities HD
+http://iptv.tvfix.org/hls/docuchina.m3u8
+#EXTINF:-1,CHC HD Movies
+http://iptv.tvfix.org/hls/chchd.m3u8
+#EXTINF:-1,CHC Home Theater
+http://iptv.tvfix.org/hls/chctv.m3u8
+#EXTINF:-1,CHC Action Movies
+http://iptv.tvfix.org/hls/chcatv.m3u8
+#EXTINF:-1,Haha dazzling HD
+http://iptv.tvfix.org/hls/hhxdhd.m3u8
+#EXTINF:-1,golden eagle cartoon
+http://iptv.tvfix.org/hls/jykttv.m3u8
+#EXTINF:-1,Youman cartoon
+http://iptv.tvfix.org/hls/ymkttv.m3u8
+#EXTINF:-1,new anime
+http://iptv.tvfix.org/hls/xdmtv.m3u8
+#EXTINF:-1,football channel
+http://iptv.tvfix.org/hls/zqhd.m3u8
+#EXTINF:-1,Jade Terrace (Traditional Channel 1)
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1,Jade Terrace (2nd channel Simplified)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1,Jade Taiwan Overseas Edition (Traditional Cantonese)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1,Jade Taiwan Overseas Edition (Simplified Mandarin)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1,J2
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1,J2 (2nd channel)
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1,wireless news station
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1,Wireless News (channel 2)
+http://iptv.tvfix.org/hls/inews2.m3u8
+#EXTINF:-1,Pearl Terrace
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1,Pearl TV (channel 2)
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1,Wireless Financial Information Desk
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1,Wireless Financial Information Channel (channel 2)
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1,Wireless Financial Information Taiwan Overseas Edition
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1,ViuTV
+http://iptv.tvfix.org/hls/viutv.m3u8
+#EXTINF:-1,ViuTV (2nd channel)
+http://iptv.tvfix.org/hls/viutv2.m3u8
+#EXTINF:-1,ViuTV6
+http://iptv.tvfix.org/hls/viutv6.m3u8
+#EXTINF:-1,RTHK31
+http://iptv.tvfix.org/hls/rthk31.m3u8
+#EXTINF:-1,RTHK32
+http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1,International Finance and Economics Station next to Shenzhen
+http://iptv.tvfix.org/hls/hkibc.m3u8
+#EXTINF:-1,Turn on the TV next to Shenzhen
+http://iptv.tvfix.org/hls/opentv.m3u8
+#EXTINF:-1,NHK Integrated (2nd channel)
+http://iptv.tvfix.org/hls/nhkg2.m3u8
+#EXTINF:-1,NHK Education
+http://iptv.tvfix.org/hls/nhke.m3u8
+#EXTINF:-1,NHK Education (2nd channel)
+http://iptv.tvfix.org/hls/nhke2.m3u8
+#EXTINF:-1,NHK WORLD Premium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF:-1,NHK WORLD
+http://iptv.tvfix.org/hls/nhkworld.m3u8
+#EXTINF:-1,NHK WORLD (Chinese subtitles)
+http://iptv.tvfix.org/hls/nhkworldzh.m3u8
+#EXTINF:-1,tvN
+http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1,look at the earth in an instant
+http://iptv.tvfix.org/hls/earth.m3u8
+#EXTINF:-1,Meiya Film Station (Cantonese)
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1,Meiya Film Station (Mandarin)
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1,Tianying Classics (Cantonese)
+http://iptv.tvfix.org/hls/tyjd.m3u8
+#EXTINF:-1,Tianying Classics (Mandarin)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1,Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1,Animax (2nd channel)
+http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1,Hands Up Channel
+http://iptv.tvfix.org/hls/kid.m3u8
+#EXTINF:-1,Hands Up Channel (2nd channel)
+http://iptv.tvfix.org/hls/kid2.m3u8
+#EXTINF:-1,Thrill
+http://iptv.tvfix.org/hls/thrill.m3u8
+#EXTINF:-1,Thrill (2nd channel)
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1,TVB Classic Channel
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1,TVB is the food station
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1,TVB is the food station (channel 2)
+http://iptv.tvfix.org/hls/tvbws2.m3u8
+#EXTINF:-1,TVB Galaxy (Cantonese)
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1,TVB Galaxy (Mandarin)
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:-1,TVB Kung Fu Platform (Cantonese)
+http://iptv.tvfix.org/hls/tvbkf.m3u8
+#EXTINF:-1,TVB Kung Fu (Mandarin)
+http://iptv.tvfix.org/hls/tvbkf2.m3u8
+#EXTINF:-1,Phoenix Information
+http://iptv.tvfix.org/hls/fhzx.m3u8
+#EXTINF:-1,Phoenix Chinese
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1,phoenix movie
+http://iptv.tvfix.org/hls/fhdy.m3u8
+#EXTINF:-1,Discovery
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1,animal planet
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1,Love Nature 4K
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
+#EXTINF:-1,Love Nature 4K (channel 2)
+http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+#EXTINF:-1,National Geographic
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1,Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1,Star TV
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1,Star Sports
+http://iptv.tvfix.org/hls/starsports.m3u8
+#EXTINF:-1,ukraine channel
+http://iptv.tvfix.org/hls/prmua.m3u8
+#EXTINF:-1,russian channel
+http://iptv.tvfix.org/hls/russia24.m3u8
+#EXTINF:-1,CNN News
+http://iptv.tvfix.org/hls/cnn.m3u8
+#EXTINF:-1,BBC News
+http://iptv.tvfix.org/hls/bbcnews.m3u8
+#EXTINF:-1,look at the earth in an instant
+http://iptv.tvfix.org/hls/earth.m3u8
+#EXTINF:-1,1. Chinese Classics
+http://epg.112114.xyz/douyu/434971
+#EXTINF:-1,2. Eat trichomoniasis
+http://epg.112114.xyz/douyu/315457
+#EXTINF:-1,3. Chinese Cinema
+http://epg.112114.xyz/douyu/5581257
+#EXTINF:-1,4. Kagura Video 1
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1,5. Kagura Video 2
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1,6. Weekend Cinema
+http://epg.112114.xyz/douyu/3637765
+#EXTINF:-1,7. CCTV projection room
+http://zzy789.xyz/douyu1.php?id=10011042
+#EXTINF:-1,8. Special Cinema
+http://epg.112114.xyz/douyu/3637778
+#EXTINF:-1,9. Beiye MAX Hall
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1,10. Marvel Videos
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1,11. Maruko Classic Movie
+http://epg.112114.xyz/douyu/8986148
+#EXTINF:-1,12. Stephen Chow movies
+http://epg.112114.xyz/douyu/3990812
+#EXTINF:-1,13. Andy Lau Movie 1
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1,14. Andy Lau Movie 2
+http://epg.112114.xyz/douyu/8985415
+#EXTINF:-1,15. Comedy Classics
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1,16. Douban High Score
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1,17. Lin Zhengying Movie 1
+http://epg.112114.xyz/douyu/218859
+#EXTINF:-1,18. Lin Zhengying Movie 2
+http://epg.112114.xyz/douyu/7356023
+#EXTINF:-1,19. Yuge Movie
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1,20. Goddess Gold Movie
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1,21. Hanamaki Movie
+http://epg.112114.xyz/douyu/52787
+#EXTINF:-1,22. Classic Nostalgia Series
+http://epg.112114.xyz/douyu/8663752
+#EXTINF:-1,23. Beijing Dami
+http://epg.112114.xyz/douyu/805235
+#EXTINF:-1,24. Pei Ye Cinema 1
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1,25. Pei Ye Cinema 2
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1,26. Hogg Films
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1,27. Coke Movie
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1,28. Bingbing classic movie
+http://epg.112114.xyz/douyu/74374
+#EXTINF:-1,29. Milk Bug Horror Movie
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1,30. Baby bottle sci-fi
+http://epg.112114.xyz/douyu/6655271
+#EXTINF:-1,31. Classic Nostalgia
+http://epg.112114.xyz/douyu/10180265
+#EXTINF:-1,32. Haven Cinemas
+http://epg.112114.xyz/douyu/9826611
+#EXTINF:-1,33. Classic Hong Kong Movies
+http://epg.112114.xyz/douyu/675072
+#EXTINF:-1,34. Linlin Film and Television
+http://epg.112114.xyz/douyu/9652323
+#EXTINF:-1,35. Horror Session
+http://epg.112114.xyz/douyu/7353112
+#EXTINF:-1,36. Star Cinema
+http://epg.112114.xyz/douyu/315131
+#EXTINF:-1,37. Horror Action Movies
+http://epg.112114.xyz/douyu/5129261
+#EXTINF:-1,38. Classic Sci-Fi
+http://epg.112114.xyz/douyu/7673566
+#EXTINF:-1,39. Marvel Movies
+http://epg.112114.xyz/douyu/4282654
+#EXTINF:-1,40. Science Fiction Series
+http://epg.112114.xyz/douyu/8107217
+#EXTINF:-1,41. Horror Classics
+http://epg.112114.xyz/douyu/1165374
+#EXTINF:-1,42. Star Chinese
+http://epg.112114.xyz/douyu/10254810
+#EXTINF:-1,43. The mutant movie
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1,44. Little U Movie
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1,45. Xiaoyu 60 frames
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1,46. ​​Chinese Movies
+http://epg.112114.xyz/douyu/3928
+#EXTINF:-1,47. Chinese Action Movies
+http://epg.112114.xyz/douyu/1504768
+#EXTINF:-1,48. Horror Movies
+http://epg.112114.xyz/douyu/310926
+#EXTINF:-1,49. Comedy Movies
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1,50. European and American blockbusters
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1,51. Nostalgia 90
+http://epg.112114.xyz/douyu/9275635
+#EXTINF:-1,52. Domestic films
+http://epg.112114.xyz/douyu/5423
+#EXTINF:-1,53. The Lost Trail of Lushan
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1,54. High frame video
+http://epg.112114.xyz/douyu/6763930
+#EXTINF:-1,55. Mia Movie
+http://epg.112114.xyz/douyu/6537888
+#EXTINF:-1,56. Video dubbing
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1,57. Net God Shadow Hall
+http://epg.112114.xyz/douyu/5081118
+#EXTINF:-1,58. Little Nine Movies
+http://epg.112114.xyz/douyu/7136517
+#EXTINF:-1,59. Chinese Movies
+http://epg.112114.xyz/douyu/6003761
+#EXTINF:-1,60. Shootout Videos
+http://epg.112114.xyz/douyu/10240510
+#EXTINF:-1,61. Foreign movies
+http://epg.112114.xyz/douyu/9683979
+#EXTINF:-1,Dynamic Music 1
+https://vd3.bdstatic.com/mda-mkf63gabjer51i9c/480p/h264/1637037550863164410/mda-mkf63gabjer51i9c.mp4?pd=19&vt=1
+#EXTINF:-1,Dynamic Music 2
+https://vd3.bdstatic.com/mda-mjgmwij68mqdp5qc/480p/h264/1634485877945514484/mda-mjgmwij68mqdp5qc.mp4?pd=19&vt=1
+#EXTINF:-1,Dynamic Music 3
+https://vdse.bdstatic.com//12f0db7bb81b6ead8a9721255c66883c.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-01-03T01:33:24Z/-1/host/b508f1e81383c8267d20ecd0b4abd74d78ad4b259e7aa3172151672196d8076a
+#EXTINF:-1,Dynamic Music 4
+https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-01-02T23:41:12Z/-1/host/96f862693c43af955140d1b7b7f52db4d6cdd00fd50f21ae0254816944af7009
+#EXTINF:-1,Dynamic Music 5
+https://vdse.bdstatic.com//7647c743bb47917539432776947202fd.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-01-02T22:20:58Z/-1/host/2dbd6c12a90a2ff9cfd809e8c524e6847906d45077c2478d51bc8e8002d543d6
+#EXTINF:-1,Dynamic Music 6
+https://vdse.bdstatic.com//d203fb1710175b587e1bb10b06ade00e.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2021-12-31T22:17:13Z/-1/host/d9b957fd7d99d06f687de642639a49a3d1649f7e23be08e32ca0f5b202cd9d7e
+#EXTINF:-1,Dynamic Music 7
+https://vdse.bdstatic.com//e28dbcadbe2c44a583297ec85fac29bb.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-01-02T21:02:08Z/-1/host/27cd8388c7fc1023b3ca0ad03dd446af102764f9ca2b29aa456df8cdb964f5be
+#EXTINF:-1,Dynamic Music 8
+https://vd3.bdstatic.com/mda-mm54irwkccvyrz2j/480p/h264/1638761150379655997/mda-mm54irwkccvyrz2j.mp4?pd=19&vt=1
+#EXTINF:-1,Dynamic Music 9
+https://vd3.bdstatic.com/mda-mma2eqqug8shcf44/480p/h264/1639187331279357822/mda-mma2eqqug8shcf44.mp4?pd=19&vt=1
+#EXTINF:-1,Dynamic Music 10
+https://vd3.bdstatic.com/mda-mma2eqqhiz6s3rg3/480p/h264/1639187329216305069/mda-mma2eqqhiz6s3rg3.mp4?pd=19&vt=1
+#EXTINF:-1,Phoenix dance nine days call
+https://vd3.bdstatic.com/mda-ma5d9z96hupwrjd9/hd/mda-ma5d9z96hupwrjd9.mp4?pd=19&vt=1&playlist=["hd","sc"]
+#EXTINF:-1,phoenix dance nine days
+https://vdse.bdstatic.com//ccbc85445a868b7a35e8ca6a0b7fc60d.mp4
+#EXTINF:-1,long night
+https://vd3.bdstatic.com/mda-mmjctfnwhg1feren/480p/h264/1639991307500489482/mda-mmjctfnwhg1feren.mp4
+#EXTINF:-1,stray brothers
+https://vdse.bdstatic.com//67e938750c1a340a341f780278fdd8c9.mp4
+https://vd3.bdstatic.com/mda-na43dwtsm11dzpin/480p/h264/1641353122464317502/mda-na43dwtsm11dzpin.mp4
+#EXTINF:-1,lover's heart
+https://vd3.bdstatic.com/mda-mkn3rrhuqzvqfu5r/480p/h264/1637635367933609921/mda-mkn3rrhuqzvqfu5r.mp4
+#EXTINF:-1,seconds
+https://vd3.bdstatic.com/mda-mm6k87sg56dez43c/480p/h264/1638886878218664636/mda-mm6k87sg56dez43c.mp4
+#EXTINF:-1,joy before dawn
+https://ffsup.oduuu.com/uploads/724/2021/12/OQBhvm7o_嗨舞_黎明前的泰国美眉.mp4
+#EXTINF:-1,Bunny Party
+https://ffsup.oduuu.com/uploads/724/2021/12/53mnYqJ3_夜店_兔宝派对.mp4
+#EXTINF:-1,shake the party
+https://ffsup.oduuu.com/uploads/724/2021/12/1pvbOThP_夜店_晃动派对.mp4
+#EXTINF:-1,trend party
+https://ffsup.oduuu.com/uploads/724/2021/12/0w4r9uTU_夜店_潮流夜店派对.mp4
+#EXTINF:-1,paparazzi party
+https://ffsup.oduuu.com/uploads/724/2021/12/6eswwDPa_夜店_狗崽子派对.mp4
+#EXTINF:-1,fluctuating body
+https://ffsup.oduuu.com/uploads/724/2021/12/CbaSFvwC_车舞_泰国波动比基尼美女.mp4
+#EXTINF:-1,want to dance
+https://ffsup.oduuu.com/uploads/724/2021/12/Ge0uO7nA_夜店_你想跳舞吗.mp4
+#EXTINF:-1,club day
+https://ffsup.oduuu.com/uploads/724/2021/12/M44cskhz_夜店_俱乐部的一天.mp4
+#EXTINF:-1,Chorus·Love·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/D0z62pdk_崔伟立VS孙艺琪_情火DJ.mp4
+#EXTINF:-1,Flower Sister Crazy Wolf DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/UDmNsLXn_花姐_狂浪DJ一版.mp4
+#EXTINF:-1,Storm Forest·Shangxue·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/4ZOjjrs8_暴林_殇雪DJ.mp4
+#EXTINF:-1,Cao Jin · magnanimous · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/UU01iOac_曹锦_坦荡DJ.mp4
+#EXTINF:-1,Kako · Ghostly Mind · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/pz6oyyMu_香子 - 鬼迷心竅DJ.mp4
+#EXTINF:-1,Angie Once Loved DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/PEdFkHk9_安琪_曾经被爱DJ.mp4
+#EXTINF:-1,Issa · Don't Be Stupid · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/Yo7xm3PD_艾萨_不再犯傻DJ.mp4
+#EXTINF:-1,Mayfair · Free Fly · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/pSOpHfBv_菲儿_自由飞翔DJ.mp4
+#EXTINF:-1,Silence · Wet Heart · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/5N8uPB3v_寂悸_潮湿的心DJ.mp4
+#EXTINF:-1,Cantonese · Because I love you · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/kXDSuSQZ_粤语_因为爱你DJ.mp4
+#EXTINF:-1,Zheng Yihan · Gong Xiami · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/j3rG53oe_郑伊涵_公虾米DJ.mp4
+#EXTINF:-1,Yang Xiaoman·You Don’t Know·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/6qgPeb7J_杨小曼_他弟弟打的洞DJ.mp4
+#EXTINF:-1,Cheng Xiang·The bride is not me·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/Uq7FxoDw_程响_新娘不是我DJ.mp4
+#EXTINF:-1,Big Zhuang·We are different·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/wykOq6vJ_大壮_我们不一样DJ.mp4
+#EXTINF:-1,Xu Qian·Tonight I'm Drunk Alone·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/AQoxEmSx_徐倩_今夜我一个人醉DJ.mp4
+#EXTINF:-1,Xiaojuan·The Road to Love Thousands of Miles·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/2aN34uqU_小娟_爱的路上千万里DJ.mp4
+#EXTINF:-1,Zhang Xin, the person I love the most, DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/qIEeVq3g_张欣_最爱的那个人DJ.mp4
+#EXTINF:-1,Chen Rui · Nostalgic people are most likely to cry · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/aZ4TH6Zw_陈瑞_念旧的人最容易掉眼泪DJ.mp4
+#EXTINF:-1,Hang Jiao·Forget My Love·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/0Nl5mjgb_杭娇_忘了我的爱DJ.mp4
+#EXTINF:-1,Tang Gu·Suddenly Miss·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/QmhMsMGw_唐古_突然好想念DJ.mp4
+#EXTINF:-1,Tang Gu · I miss you again · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/exnfZ6Vi_唐古_我又想你了DJ.mp4
+#EXTINF:-1,Tianxiang·Getting Old·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/jphLKXZp_天翔_一晃就老了DJ.mp4
+#EXTINF:-1,Mabo·Chrysanthemum Full Mountain·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/srMVF58T_马博_菊花爆满山DJ.mp4
+#EXTINF:-1,Guo Ling·Hug You Go·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/yVHeUZG5_郭玲_拥抱你离去DJ.mp4
+#EXTINF:-1,Guo Ling · I'm the only one in love · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/LgekYXH5_郭玲_痴情的只有我一个DJ.mp4
+#EXTINF:-1,Guo Ling Kicked Him DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/QOdyBO1E_郭玲_踢了他DJ.mp4
+#EXTINF:-1,Yu Wenwen · Decent · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/wB2O8JIF_于文文_体面DJ.mp4
+#EXTINF:-1,Mayfair Tick Tick DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/zxJRMoBC_菲儿_嗒嘀嗒DJ.mp4
+#EXTINF:-1,Flower Sister · Night Light · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/6u0IHxlP_花姐_夜之光DJ.mp4
+#EXTINF:-1,Scorpio Dan · Who is there in your world · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/P2EtwiRo_天蠍丹_你的世界到底有了谁DJ.mp4
+#EXTINF:-1,Wang Yixin·My lips can't kiss the person I love·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/9RRIvJBZ_王奕心_我的唇吻不到我爱的人DJ.mp4
+#EXTINF:-1,Lanqier · Lonely in love with tears · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/M0xZsDrJ_蓝琪儿_寂寞爱上了眼泪DJ.mp4
+#EXTINF:-1,Lanqier · Sins of Unromantic · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/b9TQKR8o_蓝琪儿_不浪漫的罪DJ.mp4
+#EXTINF:-1,Sun Yiqi·Drunken Butterfly·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/RnruXCX1_孙艺琪_酒醉的蝴蝶DJ.mp4
+#EXTINF:-1,Huang Jiawen·You in Love Song·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/lsqYYB6Q_黄嘉雯_情歌里的你DJ.mp4
+#EXTINF:-1,Huang Jiawen·The Sad Man is Drunk·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/dxA0ZiS1_黄嘉雯_伤心的人醉茫茫DJ.mp4
+#EXTINF:-1,Wang Yumeng·The Prodigal Son·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/RMEM6qdX_王玉萌_浪子回头DJ.mp4
+#EXTINF:-1,Li Xiaojie · Fill the Wine · DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/RKGQVL2s_李晓杰_把酒倒满DJ.mp4
+#EXTINF:-1,Wei Xinyu·Pray for You·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/hFJmgL9I_魏新雨_为你祈祷DJ.mp4
+#EXTINF:-1,Sun Yaowei·The Story of Love Part 1·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/k4NKsAkX_孙耀威_爱的故事上集DJ.mp4
+#EXTINF:-1,Han Baoyi·The past can only be remembered·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/8YtT39no_韩宝仪_往事只能回味DJ.mp4
+#EXTINF:-1,Zheng Qianwen·Love once and hurt once·DJ
+https://ffsup.oduuu.com/uploads/724/2021/12/kY7hFnb5_郑茜匀_爱一回伤一回DJ.mp4
+#EXTINF:-1,High-value goddess Shen Qiaodu drama my beautiful stepmother
+https://ckcdnc1.cdn2020.com/video/m3u8/2020/05/28/81c3324d/index.m3u8
+#EXTINF:-1,Shen Qiao's first large-scale costume drama The temptation of a seventy-year-old peasant girl
+https://ckcdnc1.cdn2020.com/video/m3u8/2020/06/14/df1cd2e3/index.m3u8
+#EXTINF:-1,Shen Qiao's new work - the male god teacher told me not to leave after school
+https://v1.ckcdn2001.com/video/m3u8/2020/06/22/5d75e0be/index.m3u8
+#EXTINF:-1,Shen Qiao's new drama: One night in the female dormitory of the university
+https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/11/ef40a61c/index.m3u8
+#EXTINF:-1,Shen Qiao's new drama female satyr seduces the takeaway brother
+https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
+#EXTINF:-1,Shen Qiao's new drama train meets ex-boyfriend
+https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
+#EXTINF:-1,Shen Qiao's new drama 18th line actress
+https://t3.cdn2020.com/video/m3u8/2020/07/16/85d1ff1f/index.m3u8
+#EXTINF:-1,Shen Qiao's story: My high school math teacher
+https://t4s.cdn2020.com/video/m3u8/2020/08/06/47fd837e/index.m3u8
+#EXTINF:-1,New technician Xiao Qiao - Shen Qiao
+https://t6s.cdn2020.com/video/m3u8/2021/02/12/0b5f543f/index.m3u8
+#EXTINF:-1,Drunk Girl Passionately Seduces Online Driver-Shen Qiao
+https://t7.cdn2020.com/video/m3u8/2021/05/09/29286674/index.m3u8
+#EXTINF:-1,Female satyr seduces courier brother-Shen Qiao
+https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
+#EXTINF:-1,Creampie Black Silky Cousin
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/20620a9f/index.m3u8
+#EXTINF:-1,Sexy car model and boyfriend have three-hour sex show
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/bfffd0c3/index.m3u8
+#EXTINF:-1,Presentation of special Mid-Autumn Festival gifts-nicolove
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/9db01c2c/index.m3u8
+#EXTINF:-1,Multiplayer sports with sex dolls - nicolove
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/76b354e9/index.m3u8
+#EXTINF:-1,Encounter in the first episode of the forest - doll sister
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/e278a64b/index.m3u8
+#EXTINF:-1,Jingdong Pictures Chang'e flies to the moon
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/58df1fec/index.m3u8
+#EXTINF:-1,Video Conference Disturbance-Shen Nana
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/7e3e81a8/index.m3u8
+#EXTINF:-1,Mr. Rabbit's Tokyo Love Story - Asuka
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/74bc2f59/index.m3u8
+#EXTINF:-1,Feast of Youth - Ella
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/93bbf141/index.m3u8
+#EXTINF:-1,Jelly Media's 36D Busty Whore Girl's Carnal Lust
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/d5650410/index.m3u8
+#EXTINF:-1,The slut lady seduces the Meituan delivery man to have sex
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/13118efa/index.m3u8
+#EXTINF:-1,Real live broadcast park seduces sanitation workers
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/36aa94c5/index.m3u8
+#EXTINF:-1,Angry roommate
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ba3e1caf/index.m3u8
+#EXTINF:-1,Clubhouse trainers teach staff how to serve customers
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/8f60abdb/index.m3u8
+#EXTINF:-1,Two young girls seduce the handsome guy
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/93b37d2c/index.m3u8
+#EXTINF:-1,MD rich can make sister open legs-Ai Qiu
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/9abe8198/index.m3u8
+#EXTINF:-1,MD Lust Interview Room - Pan Rong
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ed00ba64/index.m3u8
+#EXTINF:-1,Tianmei Media Dark Girl-Anne
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/9aff65a7/index.m3u8
+#EXTINF:-1,The Fantastic Journey of Star Media Programmer 1-Gong Feifei
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ddad30f8/index.m3u8
+#EXTINF:-1,MSD Fragrant Sisters New Neighbor-Yuan Ziyi
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/71a1be12/index.m3u8
+#EXTINF:-1,Lonely Bartending Station - Han Baoer
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ba7a54a9/index.m3u8
+#EXTINF:-1,MD's Counterattack of Rebel Schoolgirls-Yue Kelan
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/3127f53f/index.m3u8
+#EXTINF:-1,Tutor - Yuchen
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/39cdc1a2/index.m3u8
+#EXTINF:-1,Jingdong Pictures Fitness Sex
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/7bd55242/index.m3u8
+#EXTINF:-1,Jelly Media Rental Transactions-Liu Yue
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4c4fd782/index.m3u8
+#EXTINF:-1,Jelly Media's Secret Fallen Diary - Xie Yutong
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ed16b849/index.m3u8
+#EXTINF:-1,College Sex Life - Zhou Qingqing
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/83fec728/index.m3u8
+#EXTINF:-1,Tianmei Media Coquettish Agency's Special Sale - Luoluo
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/6acb23d5/index.m3u8
+#EXTINF:-1,Tianmei media best nurse - Zhang Yating
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/cd992b87/index.m3u8
+#EXTINF:-1,The White Tiger of Jingdong Pictures' Northeast Past
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/98c5d218/index.m3u8
+#EXTINF:-1,Royal Chinese's dark workplace leaders violated love and grievances
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/6e31fa9b/index.m3u8
+#EXTINF:-1,The Deadly Climax of Star Media's Death WeChat - Nanako
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/59bc178b/index.m3u8
+#EXTINF:-1,After School Sex Counseling - Guo Tongtong
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/67f71d77/index.m3u8
+#EXTINF:-1,Hello classmates AV chapter two women and two men forced 4P sex level
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/4a0ef7c0/index.m3u8
+#EXTINF:-1,Hello classmates show, the earth game that stimulates the lower body
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/09c612e3/index.m3u8
+#EXTINF:-1,Live Passionate Erotica Show - Bai Jinghan
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/d7a59da3/index.m3u8
+#EXTINF:-1,Domestic 007 no adultery
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/28947f02/index.m3u8
+#EXTINF:-1,Project research after vacation
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/d61b1a5c/index.m3u8
+#EXTINF:-1,Travel VLOG-Happiness comes from having him
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/ff36aaf1/index.m3u8
+#EXTINF:-1,Mystery gift for fans
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/1ef736b7/index.m3u8
+#EXTINF:-1,Wife Dress Up As A Maid Super Beautiful Sex
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/2c87a188/index.m3u8
+#EXTINF:-1,My sister became my sex mentor
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/66174765/index.m3u8
+#EXTINF:-1,MDX-0136 Temptation and Endurance Challenge - Ling Wei
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/6c732652/index.m3u8
+#EXTINF:-1,PsychopornTW Japanese girl gets fucked
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/9a388070/index.m3u8
+#EXTINF:-1,OL mistakenly got on the crazy subway - Wu Mengmeng
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/8d28e964/index.m3u8
+#EXTINF:-1,Star Media My Wife is a Big Shot 1-Kiki
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/bbaaf945/index.m3u8
+#EXTINF:-1,Jingdong Films married the right man in the wrong sedan chair
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/1bee93b7/index.m3u8
+#EXTINF:-1,Jelly Media Tongyan Girl AV Volunteer-Chen Youyou
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/12b502eb/index.m3u8
+#EXTINF:-1,Street Seduce Pedestrian Live Sex
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/17142457/index.m3u8
+#EXTINF:-1,Guangxi cousin visiting cousin's house
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/eb99e102/index.m3u8
+#EXTINF:-1,sophomore creampie
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/5f7c73e2/index.m3u8
+#EXTINF:-1,Need for a masturbation show
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/795ea06d/index.m3u8
+#EXTINF:-1,Cosplay Douluo Mainland Xiaowu - Xiaoyu
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/bdef6f2c/index.m3u8
+#EXTINF:-1,Female Teacher - Yuzu Pussy
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/95be12e9/index.m3u8
+#EXTINF:-1,MDX-0143 Captain Stealing Pretty Stewardess - Ni wow
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/ae78ea50/index.m3u8
+#EXTINF:-1,MDX-0145 Lucky Naked Housewife-Misu
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/ec5d234a/index.m3u8
+#EXTINF:-1,Mr. Rabbit's Dad's Angry Ep4 on Sweet Dating Extreme Sex
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/9a6f1355/index.m3u8
+#EXTINF:-1,Training してください-Gu Ling Ling
+https://ckcdnc1.cdn2020.com/video/m3u8/2019/12/02/33b0fa7f/index.m3u8
+#EXTINF:-1,Jingdong Pictures is the older sister of a student
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/836eb99d/index.m3u8
+#EXTINF:-1,MSD-036 Secretly filming a lewd wife next door - Fang Zilu
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/38c42a2a/index.m3u8
+#EXTINF:-1,MD-0178 Slutty student craving for sex - Guan Mingmei
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/0df67290/index.m3u8
+#EXTINF:-1,Jelly Media Green Hat Father Fertilized Daughter - Qi Xiaolian
+https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/159dd5f6/index.m3u8
+#EXTINF:-1,Pink classmates have sex live
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/634b5006/index.m3u8
+#EXTINF:-1,Two net red girls fly to seniors
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/693c9f30/index.m3u8
+#EXTINF:-1,Sexy lady who likes to eat dick
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/3d4e0bb6/index.m3u8
+#EXTINF:-1,There is a hot wife at home, pink and tender abalone
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/381f1951/index.m3u8
+#EXTINF:-1,Raped by girlfriend's husband
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/65bf1733/index.m3u8
+#EXTINF:-1,Sex Toys for Rich Women - Shen Nana
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/cdc3adee/index.m3u8
+#EXTINF:-1,DYTM008 Douyin Travel Shooting Issue 8 Guizhou Dong Ethnic Style
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/f758909c/index.m3u8
+#EXTINF:-1,Wife's Fallen Road - O'Neill
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/ee2201d6/index.m3u8
+#EXTINF:-1,Jelly Media Girl's Repentance - Pan Tiantian
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/520a11da/index.m3u8
+#EXTINF:-1,Star Media Young Woman Bai Jie 1-Tong Xi
+https://t7.cdn2020.com/video/m3u8/2021/06/26/211a053a/index.m3u8
+#EXTINF:-1,Star Media Young Woman Bai Jie 2-Tong Xi
+https://t7.cdn2020.com/video/m3u8/2021/07/10/66f7c99f/index.m3u8
+#EXTINF:-1,Star Media Young Woman Bai Jie 3-Tong Xi
+https://t10.cdn2020.com:12335/video/m3u8/2021/07/23/3203cba6/index.m3u8
+#EXTINF:-1,Star Media Young Woman Bai Jie 4-Tong Xi
+https://t10.cdn2020.com:12335/video/m3u8/2021/08/21/85331d8e/index.m3u8
+#EXTINF:-1,Star Media Young Woman Bai Jie 5-Tong Xi
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/09d29d49/index.m3u8
+#EXTINF:-1,Star Media Young Woman Bai Jie 5-Tong Xi
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/09d29d49/index.m3u8
+#EXTINF:-1,Peach Media Fan Raid Plan-Chen Yuanyuan
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/0627c7b4/index.m3u8
+#EXTINF:-1,Husband's Cuckold Wish - Xia Qingzi
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5cf7490d/index.m3u8
+#EXTINF:-1,Tianmei Media's erotic apartment Guan Gu magically enters the thief's cave - Hua Yurou
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/4907f503/index.m3u8
+#EXTINF:-1,The Legend of the White Snake that Jingdong Pictures never expected
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8a0dfe62/index.m3u8
+#EXTINF:-1,Gang Rape Female Tutor-Xi Xi
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/e0d1df93/index.m3u8
+#EXTINF:-1,Star Media Snake-Liu Qingyun
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/ee2ce840/index.m3u8
+#EXTINF:-1,Star Media National Cheongsam Series 2-Unique
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5df8a4e6/index.m3u8
+#EXTINF:-1,Young Abin Season 2 Chapter 5 Winter Break Begins
+https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8ce1afc0/index.m3u8
+#EXTINF:-1,Europe and America 1
+https://t7.cdn2020.com/video/m3u8/2021/04/16/b2cc3869/index.m3u8
+#EXTINF:-1,Europe and America 2
+https://t13.cdn2020.com:12338/video/m3u8/2021/11/17/31af68a0/index.m3u8
+#EXTINF:-1,Europe and America 3
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/047419f5/index.m3u8
+#EXTINF:-1,Street chat with stray girls
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/e3821ad5/index.m3u8
+#EXTINF:-1,Coquettish young woman cheating on revenge
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/e3821ad5/index.m3u8
+#EXTINF:-1,LAA-0004 Sex Yoga
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/29199fe8/index.m3u8
+#EXTINF:-1,golden lion
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/09/aad5c620/index.m3u8
+#EXTINF:-1,young woman having sex
+https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/eca6b7ec/index.m3u8
+#EXTINF:-1,Collection
+https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
+#EXTINF:-1,beautiful slave
+https://ckcdnc1.cdn2020.com:443/video/m3u8/2019/08/19/1732a3e7/index.m3u8
+#EXTINF:-1,1 Songshi
+#EXTINF:-1,2 sets of Songshi
+https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+#EXTINF:-1,3 sets of Songshi
+https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+#EXTINF:-1,4 sets of Songshi
+https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+#EXTINF:-1,pandora perfect
+https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+#EXTINF:-1,Lolita pouts her ass and hairless pussy on display
+https://video.caomin5168.com/20181205/Pb7PGiRo/index.m3u8
+#EXTINF:-1,Continuous Creampie
+https://video.caomin5168.com/20181205/705vyRrG/index.m3u8
+#EXTINF:-1,Miss Heisi, the wife's business trip club, provides door-to-door service
+https://video.caomin5168.com/20181205/gxyO6X91/index.m3u8
+#EXTINF:-1,The Most Exciting Devil Body Goddess Blowjob Bukkake I've Ever Seen
+https://video.caomin5168.com/20181129/I5dN2gn8/index.m3u8
+#EXTINF:-1,The best Internet celebrity tender model recommended by the blood spray has bright silk without inner hollows and fully exposed
+https://video.caomin5168.com/20181129/GUOnZy5k/index.m3u8
+#EXTINF:-1,Kindergarten teacher in love with slutty punks hotel slutty sex selfie
+https://video.caomin5168.com/20181128/aqW0I3ci/index.m3u8
+#EXTINF:-1,Suburban villa private shooting small tender model hairless beautiful breasts long legs and buttocks
+https://video.caomin5168.com/20181128/cdYFyW8I/index.m3u8
+#EXTINF:-1,Attractive young woman photographing full body fishnet with camera while grass
+https://video.caomin5168.com/20181128/SHBRgzAJ/index.m3u8
+#EXTINF:-1,Well-developed sophomore music student has sex selfie with her boyfriend
+https://video.caomin5168.com/20181128/zoyQMJKb/index.m3u8
+#EXTINF:-1,Bringing my girlfriend home to the bathroom and giving me blowjob is so cool
+https://video.caomin5168.com/20181128/u4qbF1PE/index.m3u8
+#EXTINF:-1,Some of the poses in the AV are all used by a macho to show sex skills in an all-round way.
+https://video.caomin5168.com/20181128/OuVpNBvj/index.m3u8
+#EXTINF:-1,In the bathroom after the bathroom
+https://video.caomin5168.com/20181127/VwCRVQ6l/index.m3u8
+#EXTINF:-1,Stockings bound young woman's limbs dick deep penetration screams high for a while
+https://video.caomin5168.com/20181127/TWwkSBkH/index.m3u8
+#EXTINF:-1,Slender teen spreads sexy legs and gives lover blowjob in 69
+https://video.caomin5168.com/20181127/zwy53pbH/index.m3u8
+#EXTINF:-1,The cock is played like a golden hoop in the hands of a slut
+https://video.caomin5168.com/20181127/4BuiRBHM/index.m3u8
+#EXTINF:-1,The wife who shows her face at home, angry grass, one-piece, sexy lingerie, likes this show
+https://video.caomin5168.com/20181127/KDXPlD6m/index.m3u8
+#EXTINF:-1,Maid bus cum all over her pussy
+https://video.caomin5168.com/20181127/VQsMNcgQ/index.m3u8
+#EXTINF:-1,The hotel staged a robber raped a beautiful woman in black
+https://video.caomin5168.com/20181127/sBvezBHG/index.m3u8
+#EXTINF:-1,The pussy I haven't seen in a long time leaks out under the hand of a kinky man
+https://video.caomin5168.com/20181127/3T6bRgkP/index.m3u8
+#EXTINF:-1,Wild sex vibrator stimulates schoolgirl's pussy
+https://video.caomin5168.com/20181125/5SnXiKCW/index.m3u8
+#EXTINF:-1,The iconic figure anchor of the private charter earns 100,000 per month
+https://video.caomin5168.com/20181125/tTmpstmN/index.m3u8
+#EXTINF:-1,Beautiful drunk woman gets unconscious and cums in her pussy after she fucks twice
+https://video.caomin5168.com/20181125/8NZVEaOE/index.m3u8
+#EXTINF:-1,The finger with the ring sticks directly into his own pussy, it is estimated that the fist can also go in
+https://video.caomin5168.com/20181125/D8tsPKO4/index.m3u8
+#EXTINF:-1,Two men fuck one woman, it's exciting to watch
+https://video.caomin5168.com/20181125/Md8vdhe2/index.m3u8
+#EXTINF:-1,The goddess girl with first-class appearance and skin is screamed by scumbags
+https://video.caomin5168.com/20181125/V2jEpsBw/index.m3u8
+#EXTINF:-1,The skilled male god conquers the sexy goddess with his hands
+https://video.caomin5168.com/20181125/qm1qynkJ/index.m3u8
+#EXTINF:-1,Pine Vision 1
+https://flv3948069e.live.126.net/live/268160ec1ad53a09283c10d4425b6489.flv
+#EXTINF:-1,2 sets of Songshi
+https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+#EXTINF:-1,3 sets of Songshi
+https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+#EXTINF:-1,Pandora
+https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
