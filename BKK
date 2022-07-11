@@ -178,9 +178,11 @@ http://host4.dynns.com/mlIkk/ddfa47e726444446864b14e0e819fdde.m3u8
 #EXTINF:-1 group-title="CAT3TV",MCOT HD 
 http://host4.dynns.com/mlIkk/3ae2fd6ccaf6499e898de377ed74ea12.m3u8
 #EXTINF:-1 group-title="CAT3TV",NBT 
-http://host4.dynns.com/mllkk/ce9a1585f45d4379970b95308df3f879.m3u8 
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115740 
+#EXTINF:-1 group-title="CAT3TV",NBT World HD TH 
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/38094
 #EXTINF:-1 group-title="CAT3TV",PBS 
-http://host4.dynns.com/mllkk/d7182fae6e9f4d929bdb5ae06059bda8.m3u8 
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/38128
 #EXTINF:-1 group-title="CAT3TV",True4u 
 http://host4.dynns.com/mlIkk/9ece9059930d4331a3d445f96fb30dff.m3u8
 #EXTINF:-1 group-title="CAT3TV",TNN 
@@ -215,17 +217,6 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NBT 2 HD TH" tvg-logo="" group-title="Thailand",NBT 2 HD TH 
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115337 
-#EXTINF:-1 tvg-id="" tvg-name="NBT HD TH" tvg-logo="" group-title="Thailand",NBT HD TH 
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115740 
-#EXTINF:-1 tvg-id="" tvg-name="NBT World HD TH" tvg-logo="" group-title="Thailand",NBT World HD TH 
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/38094
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PBS HD TH" tvg-logo="" group-title="Thailand",PBS HD TH 
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/38128
 
 
