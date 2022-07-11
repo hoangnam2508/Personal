@@ -215,5 +215,17 @@ https://server1.streamssl.com/stream/news1_hi.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="NBT 2 HD TH" tvg-logo="" group-title="Thailand",NBT 2 HD TH 
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115337 
+#EXTINF:-1 tvg-id="" tvg-name="NBT HD TH" tvg-logo="" group-title="Thailand",NBT HD TH 
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115740 
+#EXTINF:-1 tvg-id="" tvg-name="NBT World HD TH" tvg-logo="" group-title="Thailand",NBT World HD TH 
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/38094
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PBS HD TH" tvg-logo="" group-title="Thailand",PBS HD TH 
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/38128
 
 
