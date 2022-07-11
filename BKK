@@ -169,6 +169,48 @@ http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8
 
 
 
+#EXTINF:-1 group-title="CAT3TV",CH3 HD 
+http://host4.dynns.com/mlIkk/a4485b656d764f308c63b14a8bf62326.m3u8 
+#EXTINF:-1 group-title="CAT3TV",CH5 HD 
+http://host4.dynns.com/mlIkk/1d92193b11fe490b8c67d0a88bee3fd6.m3u8 
+#EXTINF:-1 group-title="CAT3TV",CH7 HD 
+http://host4.dynns.com/mlIkk/ddfa47e726444446864b14e0e819fdde.m3u8 
+#EXTINF:-1 group-title="CAT3TV",MCOT HD 
+http://host4.dynns.com/mlIkk/3ae2fd6ccaf6499e898de377ed74ea12.m3u8
+#EXTINF:-1 group-title="CAT3TV",NBT 
+http://host4.dynns.com/mllkk/ce9a1585f45d4379970b95308df3f879.m3u8 
+#EXTINF:-1 group-title="CAT3TV",PBS 
+http://host4.dynns.com/mllkk/d7182fae6e9f4d929bdb5ae06059bda8.m3u8 
+#EXTINF:-1 group-title="CAT3TV",True4u 
+http://host4.dynns.com/mlIkk/9ece9059930d4331a3d445f96fb30dff.m3u8
+#EXTINF:-1 group-title="CAT3TV",TNN 
+http://host4.dynns.com/mlIkk/77774220bb8e40aa94e549e29ff3ed8a.m3u8
+#EXTINF:-1 group-title="CAT3TV",PPTV-HD 
+http://host4.dynns.com/mlIkk/623d009180394c528880c14e2254452a.m3u8
+#EXTINF:-1 group-title="CAT3TV",JKN18 
+http://host4.dynns.com/mlIkk/0d01fdc1362f427ca5527c645f5f908f.m3u8 
+#EXTINF:-1 group-title="CAT3TV",NationTV 
+http://host4.dynns.com/mlIkk/a5b25476119b46f5b5a34d56f7d1156c.m3u8 
+#EXTINF:-1 group-title="CAT3TV",workpoint 
+http://host4.dynns.com/mlIkk/a9a68ab5471d4d39ba25695a66957067.m3u8 
+#EXTINF:-1 group-title="CAT3TV",True4u 
+http://host4.dynns.com/mlIkk/9ece9059930d4331a3d445f96fb30dff.m3u8 
+#EXTINF:-1 group-title="CAT3TV" ,GMMChannel 
+http://host4.dynns.com/mlIkk/ab0b43ef8363438098a94101e93ca138.m3u8 
+#EXTINF:-1 group-title="CAT3TV",ch8 
+http://host4.dynns.com/mlIkk/15c52eeb21b748319771eb794a6cf242.m3u8 
+#EXTINF:-1 group-title="CAT3TV" ,Mono-29 
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8  
+#EXTINF:-1 group-title="CAT3TV",one-HD 
+http://host4.dynns.com/mlIkk/7e069540a35942e89245865a84add64a.m3u8 
+#EXTINF:-1 group-title="CAT3TV",Thairath-TV 
+http://host4.dynns.com/mlIkk/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8 
+#EXTINF:-1 group-title="CAT3TV",AMARIN-TV-HD 
+http://host4.dynns.com/mlIkk/78f57ebcf6064b308d75208a20756983.m3u8 
+#EXTINF:-1 group-title="CAT3TV",TOPNEWS 
+https://live.topnews.co.th/hls/topnews_a_480.m3u8 
+#EXTINF:-1 group-title="CAT3TV",NEWS1 
+https://server1.streamssl.com/stream/news1_hi.m3u8
 
 
 
