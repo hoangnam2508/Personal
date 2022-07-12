@@ -65,61 +65,40 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playli
 
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
 https://cdn6.goprimetime.info/feed/202105171329/ch3hd//index.m3u8
-
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5HD
 https://cdn6.goprimetime.info/feed/202105171329/ch5hd//index.m3u8
-
-
 #EXTINF:-1  group-title="CATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
 https://cdn6.goprimetime.info/feed/202105171329/ch7hd//index.m3u8
-
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
 https://cdn6.goprimetime.info/feed/202105171329/chmcothd/index.m3u8
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
 https://cdn6.goprimetime.info/feed/202105171329/chgmm/index.m3u8
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 
 https://cdn6.goprimetime.info/feed/202105171329/chpptvhd/index.m3u8
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
 https://cdn6.goprimetime.info/feed/202105171329/chonehd/index.m3u8
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,Channel 2
 https://cdn6.goprimetime.info/feed/202105171329/ch2/index.m3u8
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH8 
 https://cdn6.goprimetime.info/feed/202105171329/ch8/index.m3u8
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0AiJcrC.png" ,Thairath TV 
 https://cdn6.goprimetime.info/feed/202105171329/chthairath/index.m3u8
-
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" ,TNN24 
 https://cdn6.goprimetime.info/feed/202105171329/chtnn/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="CATTV" ,True 4U
 https://cdn6.goprimetime.info/feed/202105171329/chtrue4u/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="CATTV",Workpoint 
 https://cdn6.goprimetime.info/feed/202105171329/chworkpoint/index.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="CATTV",Nation TV
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="CATTV",MONO29
 https://cdn6.goprimetime.info/feed/202105171329/chmono29/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="CATTV",NBT
 https://cdn6.goprimetime.info/feed/202105171329/chnbt/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="CATTV",PBS 
 https://cdn6.goprimetime.info/feed/202105171329/chthaipbs/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="CATTV" ,AMARIN
 https://cdn6.goprimetime.info/feed/202105171329/chamarin/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="CATTV",New18
 https://cdn6.goprimetime.info/feed/202105171329/newtv/index.m3u8
 
