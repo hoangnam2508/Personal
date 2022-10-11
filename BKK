@@ -64,89 +64,90 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playli
 
 
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
-https://cdn6.goprimetime.info/feed/202205171329/ch3hd//index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/ch3hd//index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5HD
-https://cdn6.goprimetime.info/feed/202205171329/ch5hd//index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd//index.m3u8
 #EXTINF:-1  group-title="CATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
-https://cdn6.goprimetime.info/feed/202205171329/ch7hd//index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/ch7hd//index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
-https://cdn6.goprimetime.info/feed/202205171329/chmcothd/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
-https://cdn6.goprimetime.info/feed/202205171329/chgmm/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chgmm/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 
-https://cdn6.goprimetime.info/feed/202205171329/chpptvhd/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chpptvhd/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
-https://cdn6.goprimetime.info/feed/202205171329/chonehd/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,Channel 2
-https://cdn6.goprimetime.info/feed/202205171329/ch2/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/ch2/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH8 
-https://cdn6.goprimetime.info/feed/202205171329/ch8/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0AiJcrC.png" ,Thairath TV 
-https://cdn6.goprimetime.info/feed/202205171329/chthairath/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" ,TNN24 
-https://cdn6.goprimetime.info/feed/202205171329/chtnn/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="CATTV" ,True 4U
-https://cdn6.goprimetime.info/feed/202205171329/chtrue4u/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chtrue4u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="CATTV",Workpoint 
-https://cdn6.goprimetime.info/feed/202205171329/chworkpoint/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="CATTV",Nation TV
-https://cdn6.goprimetime.info/feed/202205171329/chnation/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chnation/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="CATTV",MONO29
-https://cdn6.goprimetime.info/feed/202205171329/chmono29/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="CATTV",NBT
-https://cdn6.goprimetime.info/feed/202205171329/chnbt/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chnbt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="CATTV",PBS 
-https://cdn6.goprimetime.info/feed/202205171329/chthaipbs/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chthaipbs/index.m3u8
 #EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="CATTV" ,AMARIN
-https://cdn6.goprimetime.info/feed/202205171329/chamarin/index.m3u8
+https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="CATTV",New18
-https://cdn6.goprimetime.info/feed/202205171329/newtv/index.m3u8
-
+https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="CATTV",T Sport
+https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
 
 
 
 #EXTINF:-1 group-title="CAT2TV",3HD
-http://61.19.242.134/feed/202205171329/ch3hd/index.m3u8
+http://61.19.242.134/feed/202205171929/ch3hd/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",5HD
-http://61.19.242.134/feed/202205171329/ch5hd/index.m3u8
+http://61.19.242.134/feed/202205171929/ch5hd/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",7HD
-http://61.19.242.134/feed/202205171329/ch7hd/index.m3u8
+http://61.19.242.134/feed/202205171929/ch7hd/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",MCOT HD
-http://61.19.242.134/feed/202205171329/chmcothd/index.m3u8
+http://61.19.242.134/feed/202205171929/chmcothd/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",PPTV
-http://61.19.242.134/feed/202205171329/chpptvhd/index.m3u8 
+http://61.19.242.134/feed/202205171929/chpptvhd/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",NBT
-http://61.19.242.134/feed/202205171329/chnbt/index.m3u8
+http://61.19.242.134/feed/202205171929/chnbt/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",THAI PBS
-http://61.19.242.134/feed/202205171329/chthaipbs/index.m3u8
+http://61.19.242.134/feed/202205171929/chthaipbs/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",THAIRATH
-http://61.19.242.134/feed/202205171329/chthairath/index.m3u8 
+http://61.19.242.134/feed/202205171929/chthairath/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",NEWTV
-http://61.19.242.134/feed/202205171329/newtv/index.m3u8
+http://61.19.242.134/feed/202205171929/newtv/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",TNN
-http://61.19.242.134/feed/202205171329/chtnn/index.m3u8 
+http://61.19.242.134/feed/202205171929/chtnn/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",TRUE4U
-http://61.19.242.134/feed/202205171329/202105171329/chtrue4u/index.m3u8 
+http://61.19.242.134/feed/202205171929/202105171329/chtrue4u/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",NATION
-http://61.19.242.134/feed/202205171329/chnation/index.m3u8
+http://61.19.242.134/feed/202205171929/chnation/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",WORKPOINT
-http://61.19.242.134/feed/202205171329/chworkpoint/index.m3u8 
+http://61.19.242.134/feed/202205171929/chworkpoint/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",GMM25
-http://61.19.242.134/feed/202205171329/chgmm/index.m3u8 
+http://61.19.242.134/feed/202205171929/chgmm/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",CH8
-http://61.19.242.134/feed/202205171329/ch8/index.m3u8 
+http://61.19.242.134/feed/202205171929/ch8/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",MONO
-http://61.19.242.134/feed/202205171329/chmono29/index.m3u8 
+http://61.19.242.134/feed/202205171929/chmono29/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",ONE
-http://61.19.242.134/feed/202205171329/chonehd/index.m3u8 
+http://61.19.242.134/feed/202205171929/chonehd/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",AMARIN
-http://61.19.242.134/feed/202205171329/chamarin/index.m3u8 
+http://61.19.242.134/feed/202205171929/chamarin/index.m3u8 
 #EXTINF:-1 group-title="CAT2TV",NEW
-http://61.19.242.134/feed/202205171329/newtv/index.m3u8
+http://61.19.242.134/feed/202205171929/newtv/index.m3u8
 #EXTINF:-1 group-title="CAT2TV",TOPNEWS
-http://61.19.242.134/feed/202205171329/chtopnews/index.m3u8
-
-
+http://61.19.242.134/feed/202205171929/chtopnews/index.m3u8
+#EXTINF:-1 group-title="CAT2TV",T Sport
+http://61.19.242.134/feed/202205171929/chtsport/index.m3u8
 
 #EXTINF:-1 group-title="CAT3TV",CH3 HD 
 http://host4.dynns.com/mlIkk/a4485b656d764f308c63b14a8bf62326.m3u8 
