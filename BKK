@@ -106,47 +106,47 @@ https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
 
 
 
-#EXTINF:-1 group-title="CAT2TV",3HD
+#EXTINF:-1 group-title="3BB",3HD
 http://61.19.242.134/feed/202205171929/ch3hd/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",5HD
+#EXTINF:-1 group-title="3BB",5HD
 http://61.19.242.134/feed/202205171929/ch5hd/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",7HD
+#EXTINF:-1 group-title="3BB",7HD
 http://61.19.242.134/feed/202205171929/ch7hd/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",MCOT HD
+#EXTINF:-1 group-title="3BB",MCOT HD
 http://61.19.242.134/feed/202205171929/chmcothd/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",PPTV
+#EXTINF:-1 group-title="3BB",PPTV
 http://61.19.242.134/feed/202205171929/chpptvhd/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",NBT
+#EXTINF:-1 group-title="3BB",NBT
 http://61.19.242.134/feed/202205171929/chnbt/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",THAI PBS
+#EXTINF:-1 group-title="3BB",THAI PBS
 http://61.19.242.134/feed/202205171929/chthaipbs/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",THAIRATH
+#EXTINF:-1 group-title="3BB",THAIRATH
 http://61.19.242.134/feed/202205171929/chthairath/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",NEWTV
+#EXTINF:-1 group-title="3BB",NEWTV
 http://61.19.242.134/feed/202205171929/newtv/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",TNN
+#EXTINF:-1 group-title="3BB",TNN
 http://61.19.242.134/feed/202205171929/chtnn/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",TRUE4U
+#EXTINF:-1 group-title="3BB",TRUE4U
 http://61.19.242.134/feed/202205171929/202105171329/chtrue4u/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",NATION
+#EXTINF:-1 group-title="3BB",NATION
 http://61.19.242.134/feed/202205171929/chnation/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",WORKPOINT
+#EXTINF:-1 group-title="3BB",WORKPOINT
 http://61.19.242.134/feed/202205171929/chworkpoint/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",GMM25
+#EXTINF:-1 group-title="3BB",GMM25
 http://61.19.242.134/feed/202205171929/chgmm/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",CH8
+#EXTINF:-1 group-title="3BB",CH8
 http://61.19.242.134/feed/202205171929/ch8/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",MONO
+#EXTINF:-1 group-title="3BB",MONO
 http://61.19.242.134/feed/202205171929/chmono29/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",ONE
+#EXTINF:-1 group-title="3BB",ONE
 http://61.19.242.134/feed/202205171929/chonehd/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",AMARIN
+#EXTINF:-1 group-title="3BB",AMARIN
 http://61.19.242.134/feed/202205171929/chamarin/index.m3u8 
-#EXTINF:-1 group-title="CAT2TV",NEW
+#EXTINF:-1 group-title="3BB",NEW
 http://61.19.242.134/feed/202205171929/newtv/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",TOPNEWS
+#EXTINF:-1 group-title="3BB",TOPNEWS
 http://61.19.242.134/feed/202205171929/chtopnews/index.m3u8
-#EXTINF:-1 group-title="CAT2TV",T Sport
+#EXTINF:-1 group-title="3BB",T Sport
 http://61.19.242.134/feed/202205171929/chtsport/index.m3u8
 
 
