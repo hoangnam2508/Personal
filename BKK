@@ -168,87 +168,140 @@ https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
 https://cdn6.goprimetime.info/feed/202205171929/chtsport/index.m3u8
 
 
+#EXTINF:-1 group-title="Thai Leauge", Ais1
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais2
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais3
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais4
+
+https://49-231-36-188-rewriter.ais8-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais5
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais6
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais7
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais8
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais9
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais10
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL010/HLS/TL010-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais11
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL011/HLS/TL011-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais12
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL012/HLS/TL012-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais13
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL013/HLS/TL013-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai Leauge", Ais14
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL014/HLS/TL014-avc1_5000000=6-mp4a_64000_tha=2.m3u8
+
+#EXTINF:-1 group-title="Thai TV", Ch3
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003.m3u8
+
+#EXTINF:-1 group-title="Thai TV", Ch5
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007.m3u8
+
+#EXTINF:-1 group-title="Thai TV", Ch7
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018.m3u8
 
 
-#EXTINF:-1 tvg-chno="3" tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://dl.dropbox.com/s/8tuad0cyvosccfb/thaipbs.png?dl=0" group-title="FREETV2",Thai PBS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chthaipbs/index.m3u8
+#EXTINF:-1 group-title="Thai TV", MCOT
 
-#EXTINF:-1 tvg-chno="16" tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="https://dl.dropbox.com/s/l1cxi9i4p3h1ga8/tnn.png?dl=0" group-title="FREETV2",TNN 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/202105171329/chtnn/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://dl.dropbox.com/s/cfm7pc9vqtm47so/nation.png?dl=0" group-title="FREETV2",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chnation/index.m3u8
+#EXTINF:-1 group-title="Thai TV", NBT 2 HD 
 
-#EXTINF:-1 tvg-id="TopNews.th" tvg-name="" tvg-logo="https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0" group-title="FREETV2",Top News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chtopnews/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="ThairathTV.th" tvg-name="Thairath TV" tvg-logo="https://dl.dropbox.com/s/9fayf6x3v2sx03k/thairath.png?dl=0" group-title="FREETV2",Thairath TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chthairath/index.m3u8
+#EXTINF:-1 group-title="Thai TV", PBS HD 
 
-#EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://dl.dropbox.com/s/01sninbysfdlwwk/amarin.png?dl=0" group-title="FREETV2",Amarin34
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chamarin/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD.th" tvg-name="PPTV HD" tvg-logo="https://dl.dropbox.com/s/zafkq553lvt0b0d/pptv.png?dl=0" group-title="FREETV2",PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chpptvhd/index.m3u8
+#EXTINF:-1 group-title="Thai TV", ONE 31 HD 
 
-#EXTINF:-1 tvg-chno="24" tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://dl.dropbox.com/s/fd16mksgo4ken4s/true4utv.png?dl=0" group-title="FREETV2",True 4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/202105171329/chtrue4u/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM 25" tvg-logo="https://dl.dropbox.com/s/obu6dyqp6lctxvb/gmm.png?dl=0" group-title="FREETV2",GMM 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chgmm/index.m3u8
+#EXTINF:-1 group-title="Thai TV", Thairath TV HD 
 
-#EXTINF:-1 tvg-chno="28" tvg-id="ThaiChannel8.th" tvg-name="CH8" tvg-logo="https://dl.dropbox.com/s/geubugp3dm03asc/8.png?dl=0" group-title="FREETV2",CH8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/ch8/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="Mono29.th" tvg-name="MONO 29" tvg-logo="https://dl.dropbox.com/s/uev7xfb22l4pj73/mono.png?dl=0" group-title="FREETV2",MONO 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chmono29/index.m3u8
+#EXTINF:-1 group-title="Thai TV" ,AmarinTV HD 
 
-#EXTINF:-1 tvg-chno="31" tvg-id="OneHD.th" tvg-name="ONE HD" tvg-logo="https://dl.dropbox.com/s/p7f5c0w47tctges/one.png?dl=0" group-title="FREETV2",ONE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chonehd/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://dl.dropbox.com/s/qfyhzxfkpj33r46/workpoint.png?dl=0" group-title="FREETV2",Workpoint TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chworkpoint/index.m3u8
+#EXTINF:-1 group-title="Thai TV", PPTV HD 
 
-#EXTINF:-1 tvg-chno="33" tvg-id="CH3.th" tvg-name="CH3 HD" tvg-logo="https://dl.dropbox.com/s/868oqvj903c7y0g/3hd.png?dl=0" group-title="FREETV2",CH3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/ch3hd/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://dl.dropbox.com/s/g1og5mkiv8tq8ny/5hd.png?dl=0" group-title="FREETV2",TV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/ch5hd/index.m3u8
+#EXTINF:-1 group-title="Thai TV", MONO 29 
 
-#EXTINF:-1 tvg-chno="35" tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://dl.dropbox.com/s/w5uhtzc3b4tap3v/7hd.png?dl=0" group-title="FREETV2",BBTV Channel 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/ch7hd/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0016/HLS/B0016.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-id="MCOTHD.th" tvg-name="MCOT HD" tvg-logo="https://dl.dropbox.com/s/bnnc4qpjt3drip5/mcot.png?dl=0" group-title="FREETV2",MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chmcothd/index.m3u8
+#EXTINF:-1 group-title="Thai TV", Workpoint TV 
 
-#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://dl.dropbox.com/s/tzqz74jvye8re6m/nbt.png?dl=0" group-title="FREETV2",NBT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chnbt/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://dl.dropbox.com/s/byqurs38hszlfi8/jkn.png?dl=0" group-title="FREETV2",JKN 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
+#EXTINF:-1 group-title="Thai TV", GMM25
 
-#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FREETV2",T Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chtsport/index.m3u8
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/HLS/B0019.m3u8
+
+#EXTINF:-1 group-title="Thai TV", CH 8 
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/HLS/B0006.m3u8
+
+#EXTINF:-1 group-title="Thai TV", JKN 18 
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0010/HLS/B0010.m3u8
+
+#EXTINF:-1 group-title="Thai TV", T-Sports
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
+
+#EXTINF:-1 group-title="Thai TV", TNN24 
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0053/HLS/B0053.m3u8
+
+#EXTINF:-1 group-title="Thai TV", True 4 U 
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054.m3u8
+
+#EXTINF:-1 group-title="Thai TV", Nation TV 
+
+https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021.m3u8
+
+
+
+
 
 
 
