@@ -248,7 +248,7 @@ https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://i.imgur.com/hnfiUbK.png" group-title="FREETV2",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://61.19.242.134/feed/202205171929/chtopnews/index.m3u8
+http://61.19.242.134/feed/202205171929/chtsport/index.m3u8
 
 
 
