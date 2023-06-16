@@ -1,0 +1,38 @@
+{
+"name": "รวมไทย",
+"author": "C",
+"image": "",
+"url": "",
+
+"stations":  [
+{
+"name": "BKK",
+"image": "",
+"url": "https://tinyurl.com/nhazdna9",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+
+"stations":  [
+{
+"name": "akkradet",
+"image": "",
+"url": "https://akkradet.github.io/IPTV-THAI/FREETV.m3u",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+
+"stations":  [
+{
+"name": "T sport",
+"image": "",
+"url": "https://tinyurl.com/55cdm7tx",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true"
+},
+
+]
+}
+
