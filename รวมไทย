@@ -10,7 +10,7 @@
 {"name": "BKK",
 "image": "",
 "url": "https://tinyurl.com/nhazdna9",
-"import":false
+"import": "false"
 },
 
 {"name": "Akkradet",
@@ -21,6 +21,6 @@
 {"name": "T sport",
 "image": "",
 "url": "https://tinyurl.com/55cdm7tx",
-"import": "true",
+"import": "false",
 
 ]}
