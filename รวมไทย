@@ -10,7 +10,8 @@
 {"name": "BKK",
 "image": "",
 "url": "https://tinyurl.com/nhazdna9",
-"import":"true"},
+"import":false
+},
 
 {"name": "Akkradet",
 "image": "",
