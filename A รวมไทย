@@ -1,0 +1,37 @@
+{
+"name": "A รวมไทย",
+"author": "C",
+"groups": [
+
+{
+"name": "BKK",
+"url": "https://tinyurl.com/nhazdna9",
+"import": false
+},
+{
+"name": "akkradet",
+"url": "https://akkradet.github.io/IPTV-THAI/FREETV.m3u",
+"import": false
+},
+{
+"name": "PlayID",
+"url": "https://rebrand.ly/Ott1234",
+"import": false
+},
+{
+"name": "madoo HD",
+"url": "https://drive.google.com/uc?id=1NikykQcEpWVJIxxUz_QZEmkVI5Gxb2Y0",
+"import": false
+},
+{
+"name": "Dooball",
+"url": "https://www.dropbox.com/s/s6544im32leufrm/LiveDooMovieHD_S1_2Sport.txt?dl=1",
+"import": false
+},
+{
+"name": "T sport",
+"url": "https://tinyurl.com/55cdm7tx",
+"import": false
+},
+]
+}
