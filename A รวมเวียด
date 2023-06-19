@@ -19,8 +19,8 @@
 "import": false
 },
 {
-"name": "fptv1",
-"url": "https://hqth.me/fptv1",
+"name": "viettelv1",
+"url": "https://hqth.me/viettelv1",
 "import": false
 },
 {
@@ -33,5 +33,11 @@
 "url": "http://hqth.me/coca",
 "import": false
 },
+{
+"name": "china",
+"url": "http://hqth.me/china-tv",
+"import": false
+},
+]
 ]
 }
