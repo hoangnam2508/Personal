@@ -33,11 +33,6 @@
 "url": "http://hqth.me/coca",
 "import": false
 },
-{
-"name": "china",
-"url": "http://hqth.me/china-tv",
-"import": false
-},
 ]
 ]
 }
