@@ -1,0 +1,185 @@
+{
+"name": "Nung2HDD",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://freenote.biz/raw/dGDCSm0nUo",
+"groups": [
+
+
+{
+"name": "Movies-2023",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16rpvosipdnVcnKGy8ZkAUqf7rn4jLcBB",
+"import": "true"
+},
+
+{
+"name": "Movies-ฝรั่ง",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16OZClYl0Z57exa7jUIofhZgBcz5-B8Nk",
+"import": "true"
+},
+
+{
+"name": "Movies-เกาหลี",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16DNJBLULb3R4goQ0dyXiz3rpPYW-HTlx",
+"import": "true"
+},
+
+{
+"name": "Movies-จีน",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16rBwS5_W_zagYaBXugCfjQ6Y5YTFpVbY",
+"import": "true"
+},
+
+{
+"name": "Movies-ไทย",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=18BPlef3Ff6NjFdCoCOcCf42bo4UVhw9E",
+"import": "true"
+},
+
+{
+"name": "Movies-ญี่ปุ่น",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16MZcNCqC6GomKGmRzJgjODXhecUsKRu5",
+"import": "true"
+},
+
+{
+"name": "Movies-Netflix",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=18RHJUXKBL-48LnODjDoKkIFJq5rozsRC",
+"import": "true"
+},
+
+{
+"name": "Movies-การ์ตูน",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16rhND9wf0U-ZOQq02_gs0yxELmc13qZI",
+"import": "true"
+},
+
+{
+"name": "Movies-Disney",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16bRcW95FEa9vTXrsse241mb_iRSz0Kla",
+"import": "true"
+},
+
+{
+"name": "Movies-HBO",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17vEfdMupFWmtizYlbxnTGIpazKNWr8qW",
+"import": "true"
+},
+
+{
+"name": "Movies-Disney+",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16bRcW95FEa9vTXrsse241mb_iRSz0Kla",
+"import": "true"
+},
+
+{
+"name": "Movies-อินเดีย",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16djFQzzw5b61i9BnHTMUiX2XliQ2Mtbd",
+"import": "true"
+},
+
+{
+"name": "Series-2023",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17t_kzGd8Z5I8_sjBbo9-FVOK9flk6AYk",
+"import": "true"
+},
+
+{
+"name": "Series-การ์ตูน",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17r3CcRx_Gdq79ATS4h8_MrQJR7WsMGHr",
+"import": "true"
+},
+
+{
+"name": "Series-เกาหลี",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17X-r87M7hwdfiTbSTJ6RZ0_kxcI8hgYP",
+"import": "true"
+},
+
+{
+"name": "Series-ฝรั่ง",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17f-YhYfUJy3oRl-FAyppq6CdOND448VH",
+"import": "true"
+},
+
+{
+"name": "Series-จีน",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17mzoVOWVgE1rSSnABcttJLSuQkMJ0QFP",
+"import": "true"
+},
+
+{
+"name": "Series-ญี่ปุ่น",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17_l9uRkZZS7NMBYQRNt89Kt1v9Fkp0bB",
+"import": "true"
+},
+
+{
+"name": "Series-Netflix",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17H4cCCywg97odBPnsje3unALpIxn_4Pq",
+"import": "true"
+},
+
+{
+"name": "Series-Disney+",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=17lJIHTexkZIRSYayNYzItC0aDs35uu3x",
+"import": "true"
+},
+
+{
+"name": "Series-HBO",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=16tVmGx5jJWR6alpkZZwUiF1hnBk1cWrh",
+"import": "true"
+},
+
+{
+"name": "Series-VIU+Amezon+Wetv+Apple+Marvel",
+"author": "Nung2HDD",
+"image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
+"url": "https://drive.google.com/uc?id=1752v7DxBbhctnd-JrQeOMVsMd2sNL0Rp",
+"import": "true"
+},
+]
+}
