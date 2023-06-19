@@ -1,0 +1,37 @@
+{
+"name": "A รวมเวียด",
+"author": "C",
+"groups": [
+
+{
+"name": "Viet 06062023",
+"url": "http://gg.gg/06062023",
+"import": false
+},
+{
+"name": "vthanhtivi",
+"url": "http://playlist.vthanhtivi.pw/",
+"import": false
+},
+{
+"name": "khanggkplusiptv",
+"url": "http://gg.gg/khanggkplusiptv",
+"import": false
+},
+{
+"name": "fptv1",
+"url": "https://hqth.me/fptv1",
+"import": false
+},
+{
+"name": "fptv2i",
+"url": "https://hqth.me/fptv2i",
+"import": false
+},
+{
+"name": "coca",
+"url": "http://hqth.me/coca",
+"import": false
+},
+]
+}
