@@ -45,7 +45,7 @@ https://www.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1,TrueSports 7
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-truesport7.jpg" group-title="ทรูวิชั่นส์สปอร์ต",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
@@ -60,7 +60,7 @@ https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://sport.livedoomovies.com:4432/02_epl3_720p/chunklist.m3u8
 
-#EXTINF:-1,Spotv1
+#EXTINF:-1,Spotv1 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_320.webp",SPOTV 1 Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
