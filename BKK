@@ -131,78 +131,60 @@ https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL014/HLS/
 
 
 #EXTINF:-1 group-title="Ais TV",Ch3
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003.m3u8
 
 #EXTINF:-1 group-title="Ais TV",Ch5
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007.m3u8
 
 #EXTINF:-1 group-title="Ais TV",Ch7
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018.m3u8
 
 #EXTINF:-1 group-title="Ais TV",MCOT
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008.m3u8
 
 #EXTINF:-1 group-title="Ais TV",NBT 2 HD 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
 
 #EXTINF:-1 group-title="Ais TV",PBS HD 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014.m3u8
 
 #EXTINF:-1 group-title="Ais TV",ONE 31 HD 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8
 
 #EXTINF:-1 group-title="Ais TV",Thairath TV HD 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
 
 #EXTINF:-1 group-title="Ais TV" ,AmarinTV HD 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017.m3u8
 
 #EXTINF:-1 group-title="Ais TV",PPTV HD 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
 
 #EXTINF:-1 group-title="Ais TV",MONO 29 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0016/HLS/B0016.m3u8
 
 #EXTINF:-1 group-title="Ais TV",Workpoint TV 
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015.m3u8
 
-#EXTINF:-1 group-title="Thai TV",GMM25
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+#EXTINF:-1 group-title="Ais TV",GMM25
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/HLS/B0019.m3u8
 
 #EXTINF:-1 group-title="Ais TV",CH 8 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/HLS/B0006.m3u8
 
 #EXTINF:-1 group-title="Ais TV",JKN 18 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0010/HLS/B0010.m3u8
 
 #EXTINF:-1 group-title="Ais TV",T-Sports
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
 
 #EXTINF:-1 group-title="Ais TV",TNN24 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0053/HLS/B0053.m3u8
 
 #EXTINF:-1 group-title="Ais TV",True 4 U 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054.m3u8
 
 #EXTINF:-1 group-title="Ais TV",Nation TV 
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021.m3u8
 
 
