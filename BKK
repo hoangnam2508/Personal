@@ -1,90 +1,45 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
-https://cdn6.goprimetime.info/feed/202306140918/ch3hd//index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5HD
-https://cdn6.goprimetime.info/feed/202306140918/ch5hd//index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
 #EXTINF:-1  group-title="CATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
-https://cdn6.goprimetime.info/feed/202306140918/ch7hd//index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
-https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
-https://cdn6.goprimetime.info/feed/202306140918/chgmm/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 
-https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
-https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
-#EXTINF:-1 group-title="CATTV" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,Channel 2
-https://cdn6.goprimetime.info/feed/202306140918/ch2/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+#EXTINF:-1 group-title="CATTV" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,JKN 18
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH8 
-https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0AiJcrC.png" ,Thairath TV 
-https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" ,TNN24 
-https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn3/index.m3u8
 #EXTINF:-1 tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240"group-title="CATTV" ,True 4U
-https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iuOMQIQ.jpg" group-title="CATTV",Workpoint 
-https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="CATTV",Nation TV
-https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="CATTV",MONO29
-https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="CATTV",NBT
-https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="CATTV",PBS 
-https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
 #EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="CATTV" ,AMARIN
-https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="CATTV",New18
-https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
+http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="" group-title="CATTV",T Sport
-https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
-
-
-#EXTINF:-1 group-title="3BB",3HD
-http://61.19.242.134/feed/202306140918/ch3hd/index.m3u8
-#EXTINF:-1 group-title="3BB",5HD
-http://61.19.242.134/feed/202306140918/ch5hd/index.m3u8
-#EXTINF:-1 group-title="3BB",7HD
-http://61.19.242.134/feed/202306140918/ch7hd/index.m3u8
-#EXTINF:-1 group-title="3BB",MCOT HD
-http://61.19.242.134/feed/202306140918/chmcothd/index.m3u8
-#EXTINF:-1 group-title="3BB",PPTV
-http://61.19.242.134/feed/202306140918/chpptvhd/index.m3u8 
-#EXTINF:-1 group-title="3BB",NBT
-http://61.19.242.134/feed/202306140918/chnbt/index.m3u8
-#EXTINF:-1 group-title="3BB",THAI PBS
-http://61.19.242.134/feed/202306140918/chthaipbs/index.m3u8
-#EXTINF:-1 group-title="3BB",THAIRATH
-http://61.19.242.134/feed/202306140918/chthairath/index.m3u8 
-#EXTINF:-1 group-title="3BB",NEWTV
-http://61.19.242.134/feed/202306140918/newtv/index.m3u8
-#EXTINF:-1 group-title="3BB",TNN
-http://61.19.242.134/feed/202306140918/chtnn/index.m3u8 
-#EXTINF:-1 group-title="3BB",TRUE4U
-http://61.19.242.134/feed/202306140918/chtrue4u/index.m3u8 
-#EXTINF:-1 group-title="3BB",NATION
-http://61.19.242.134/feed/202306140918/chnation/index.m3u8
-#EXTINF:-1 group-title="3BB",WORKPOINT
-http://61.19.242.134/feed/202306140918/chworkpoint/index.m3u8 
-#EXTINF:-1 group-title="3BB",GMM25
-http://61.19.242.134/feed/202306140918/chgmm/index.m3u8 
-#EXTINF:-1 group-title="3BB",CH8
-http://61.19.242.134/feed/202306140918/ch8/index.m3u8 
-#EXTINF:-1 group-title="3BB",MONO
-http://61.19.242.134/feed/202306140918/chmono29/index.m3u8 
-#EXTINF:-1 group-title="3BB",ONE
-http://61.19.242.134/feed/202306140918/chonehd/index.m3u8 
-#EXTINF:-1 group-title="3BB",AMARIN
-http://61.19.242.134/feed/202306140918/chamarin/index.m3u8 
-#EXTINF:-1 group-title="3BB",NEW
-http://61.19.242.134/feed/202306140918/newtv/index.m3u8
-#EXTINF:-1 group-title="3BB",TOPNEWS
-http://61.19.242.134/feed/202306140918/chtopnews/index.m3u8
-#EXTINF:-1 group-title="3BB",T Sport
-http://61.19.242.134/feed/202306140918/chtsport/index.m3u8
-
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 
 
 
