@@ -5,18 +5,18 @@
 
 {"name": "thethao tv",
 "url": "https://gg.gg/SN-thethao",
-"import": "false"},
+"import": "true"},
 
 {"name": "SN TV",
 "url": "https://gg.gg/sn-tv",
-"import": "false"},
+"import": "true"},
 
 {"name": "THAPCAM TV",
 "url": "https://gg.gg/SN-thapcam",
-"import": "false"},
+"import": "true"},
 
 {"name": "iptvmedia247",
 "url": "https://gg.gg/iptvmedia247",
-"import": "false"},
+"import": "true"},
 ]
 }
