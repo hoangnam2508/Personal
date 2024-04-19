@@ -8,15 +8,15 @@
 "import": "true"},
 
 {"name": "SN TV",
-"url": "https://gg.gg/sn-tv",
+"url": "http://gg.gg/sn-tv",
 "import": "true"},
 
 {"name": "THAPCAM TV",
-"url": "https://gg.gg/SN-thapcam",
+"url": "http://gg.gg/SN-thapcam",
 "import": "true"},
 
-{"name": "iptvmedia247",
-"url": "https://gg.gg/iptvmedia247",
+{"name": "Vietnga TV",
+"url": "https://hqth.me/vietngatv",
 "import": "true"},
 ]
 }
