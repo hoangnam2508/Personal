@@ -1,0 +1,132 @@
+{
+"name": "หนัง",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "",
+"info": "หนังใหม่ใส่เอง",
+"groups":
+[
+
+{
+"name": "หนังมาใหม่",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=18TePJbQ6M9CF9M3Q6MrwzoCbRWhf6WeE",
+"import": "true"
+},
+
+{
+"name": "หนังมาใหม่1หยุดอัพ",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1Ky9SwMNyjDUMmpi9IkDng8a2WTgNZDpo",
+"import": "true"
+},
+
+{
+"name": "หนังมาใหม่2",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1lmdz2hNyye6Y3PViPL66G7vNGy5lELXl",
+"import": "true"
+},
+
+{
+"name": "หนังคัดแล้ว",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1wKfA0suG_TKItxiYOUnBID9__c_OnJR4",
+"import": "true"
+},
+
+{
+"name": "หนังภาคต่อ",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url":"https://www.dropbox.com/scl/fi/8zv3cbxez8s7neulqpt6t/trilogy-movies.m3u?rlkey=4slays2jdrkbuvtysyqc8ov09&dl=1",
+"import": false},
+
+{
+"name": "Movie1",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=10UDleJELyrhniuSXf8SKHcXSjOaLyov_",
+"import": "true"
+},
+
+{
+"name": "Movie2",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1exXTCXHo9vSpV3sLmLSov0mGMxa2sDDO",
+"import": "true"
+},
+
+{
+"name": "Movie3",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1hCu8GDnobazkzBg5ls-Rsme-aJotEtPC",
+"import": "true"
+},
+
+{
+"name": "Movie4",
+"author": "SuperMovie",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://docs.google.com/uc?export=download&id=1GIUAZfAQ2XFvklTwcy_je2AU0haisJcf",
+"import": "true"
+},
+
+{
+"name": "Marvel Movies",
+"image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/62D6598A98D947B4418FA801AB7C7BC7789E7DD15D5F1378787D52A85B17D841/scale?width=1600&aspectRatio=1.78&format=webp",
+"url": "https://wandering-oldman.github.io/marvel-movies/marvel-movies.html",
+"import": false},
+
+{
+"name": "หนังจีน",
+"image": "https://drive.google.com/uc?id=1zrHOeGe-zFBxRP-bTspL0MWX737KhIXo",
+"url": "https://docs.google.com/uc?export=download&id=1iXCWPaX06ACF_hnEGpMB7T9w5NHNX-6v",
+"import": "true"
+},
+
+{
+"name": "หนังฝรั่ง",
+"image": "https://drive.google.com/uc?id=1yrM9D9-lbbFj7_3tmyxWJevZmAuOL7c0",
+"url": "https://docs.google.com/uc?export=download&id=1oS4SAxOOwEFkDwKlkx0XjWRCMZg7FyjN",
+"import": "true"
+},
+
+{
+"name": "หนังเกาหลี",
+"image": "https://drive.google.com/uc?id=1-PvIaggXRuNFZ2C8xoPAhhyEEb1ZYKFg",
+"url": "https://docs.google.com/uc?export=download&id=12fc6t1dfy22kfbma_3VfSr5AoPrim_kE",
+"import": "true"
+},
+
+{
+"name": "หนังไทย",
+"image": "https://parliamentmuseum.go.th/article2563/flag08.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1VSSBSQY8clbcU1DnKtvshwmx-JmRS2Oc",
+"import": "true"
+},
+
+{
+"name": "หนังญี่ปุ่น",
+"image": "https://inwfile.com/s-cu/zeehkx.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1DyoGVSV2FiYTHXc9TeWI69UilBBwT6Yp",
+"import": "true"
+},
+  
+
+{
+"name": "หนังอินเดีย",
+"image": "https://cdn.pixabay.com/photo/2013/07/13/14/15/india-162319_640.png",
+"url": "https://docs.google.com/uc?export=download&id=1J281kNx0p-6MeOwcFmsamlFCMtT-qHBJ",
+"import": "true"
+},
+
+
+
+]
+}
