@@ -1,23 +1,23 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://teevee-hd.com/img/ch3fhd.png" , 3HD
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://edge6a.v2h-cdn.com/3hd/3hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5HD
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
 #EXTINF:-1  group-title="CATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
-http://live-cdn-hwc.ch7.com/livech7hd/HD_720p.m3u8
+https://edge6a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-name="GMM 25" ,GMM 25
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm3/index.m3u8
+https://edge6a.v2h-cdn.com/gmm25/gmm25.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0R036xO.png" ,PPTV HD 
 https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
+https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,JKN 18
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+https://hls-test.v2h-cdn.com/hls/NEW_114.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH8 
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0AiJcrC.png" ,Thairath TV 
 https://edge6a.v2h-cdn.com/thairathhd/thairathHD.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://www.totiptv.com/Product/Channel/images/TNT-24.png" ,TNN24 
@@ -29,17 +29,18 @@ https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/TMTLNvJ.png" group-title="CATTV",Nation TV
 https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eds4E6G.png" group-title="CATTV",MONO29
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
+https://edge6a.v2h-cdn.com/mono/mono.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="CATTV",NBT
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
+https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="CATTV",PBS 
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://stbm.dgtsynergy.info:80/uploads/media/dtv_cover/0001/01/7c012f19ee82812fb285da9351071f23fef850e6.jpeg"group-title="CATTV" ,AMARIN
 https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="CATTV",New18
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="" group-title="CATTV",T Sport
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+
 
 
 
