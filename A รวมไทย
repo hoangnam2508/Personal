@@ -29,6 +29,11 @@
 "import": false
 },
 {
+"name": "Thai+Inter TV",
+"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/Thai%2BInter%20TV",
+"import": false
+},
+{
 "name": "Global TV",
 "url": "https://freenote.biz/raw/2mkdq6tdif",
 "import": false
