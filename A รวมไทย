@@ -49,11 +49,6 @@
 "import": false
 },
 {
-"name": "รวมลิงค์",
-"url": "https://raw.githubusercontent.com/tongtjc/movie_add/main/mylist",
-"import": false
-},
-{
 "name": "Movies",
 "url": "https://freenote.biz/raw/1CoNP0ElWF",
 "import": false
