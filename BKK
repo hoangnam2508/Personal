@@ -16,7 +16,7 @@ https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/2iIhC8r.png" ,One31
 https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,JKN 18
-https://hls-test.v2h-cdn.com/hls/NEW_114.m3u8
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" ,CH8 
 https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/0AiJcrC.png" ,Thairath TV 
