@@ -4,7 +4,6 @@
 https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://www.doohdbox.com/assets/20170804152413943615616.jpg" , 5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group
 #EXTINF:-1  group-title="CATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png"  ,CH7
 https://hls-nginx.v2h-cdn.com/hls/ch7myStream.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/bYMtfRn.png" ,MCOT HD
