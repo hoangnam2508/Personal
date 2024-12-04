@@ -19,6 +19,11 @@
 "import": false
 },
 {
+"name": "Soponwit",
+"url": "https://raw.githubusercontent.com/Soponwit19997/IPTV/main/Digital_TV.m3u",
+"import": false
+},
+{
 "name": "fuckidplus",
 "url": "https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u",
 "import": false
