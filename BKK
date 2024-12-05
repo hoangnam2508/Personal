@@ -34,9 +34,9 @@ https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8
 https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="CATTV",PBS 
 https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.pn"group-title="CATTV" ,AMARIN
+#EXTINF:-1 tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="CATTV" ,AMARIN
 https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/J2U730J.png" group-title="CATTV",New18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="CATTV",New18
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png" group-title="CATTV",T Sport
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
