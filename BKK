@@ -129,65 +129,65 @@ https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/chunklist.m3u8
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg"  ,True Premier Football HD1
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf1.jpg" group-title="Sport Thai" ,True Premier Football HD1
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf2.jpg"  ,True Premier Football HD2 
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf2.jpg" group-title="Sport Thai" ,True Premier Football HD2 
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf3.jpg"  ,True Premier Football HD3 
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf3.jpg" group-title="Sport Thai" ,True Premier Football HD3 
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf4.jpg"  ,True Premier Football HD4
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf4.jpg" group-title="Sport Thai"  ,True Premier Football HD4
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf5.jpg"  ,True Premier Football HD5
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/tpf5.jpg" group-title="Sport Thai" ,True Premier Football HD5
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport1.jpg"  ,True Sport HD 1
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport1.jpg" group-title="Sport Thai"  ,True Sport HD 1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport2.jpg"  ,True sport hd 2
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport2.jpg" group-title="Sport Thai" ,True sport hd 2
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport3.jpg"  ,True Sport HD 3
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport3.jpg" group-title="Sport Thai" ,True Sport HD 3
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/4281f886de8f2435f.jpg"  ,True Sport HD 4
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/4281f886de8f2435f.jpg" group-title="Sport Thai" ,True Sport HD 4
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport5.jpg"  ,Truesport 5
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport5.jpg" group-title="Sport Thai"  ,Truesport 5
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport7.jpg"  ,Truesport 7
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/truesport7.jpg" group-title="Sport Thai" ,Truesport 7
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg"  ,bein sport1
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg" group-title="Sport Thai" ,bein sport1
 #EXTVLCOPT:http-referrer=https://www.ball24.tv/
 https://www.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/2dcecbfd9441f9389.jpg"  ,bein sport 2
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/2dcecbfd9441f9389.jpg" group-title="Sport Thai" ,bein sport 2
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
 https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s1/beinsport1_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg"  ,bein sport 3
+#EXTINF:-1 tvg-logo="https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg" group-title="Sport Thai" ,bein sport 3
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sportv.jpg"  ,Spotv1
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sportv.jpg" group-title="Sport Thai" ,Spotv1
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sportv2.jpg"  ,Spotv2 
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sportv2.jpg" group-title="Sport Thai"  ,Spotv2 
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/golf-channel-thailand.jpg"  ,Golf
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/golf-channel-thailand.jpg" group-title="Sport Thai" ,Golf
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/golf-channel-thailand-plus.jpg"  ,Golf2
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/golf-channel-thailand-plus.jpg" group-title="Sport Thai" ,Golf2
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/truesport1-crop.jpg"  ,	Tennis
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/truesport1-crop.jpg" group-title="Sport Thai" ,	Tennis
 #EXTVLCOPT:http-referrer=
 https://www.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/TSportsChannel-crop.png", T_SPORTS
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/TSportsChannel-crop.png"  group-title="Sport Thai" , T_SPORTS
 #EXTVLCOPT:http-referrer=
 https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
 
