@@ -54,7 +54,8 @@ https://slave03.appball.vip/hls/truesport1.m3u8
 https://slave03.appball.vip/hls/truesport5.m3u8
 #EXTINF:-1 group-title="CATTV" ,truesport7
 https://slave03.appball.vip/hls/truesport7.m3u8
-
+#EXTINF:-1 group-title="CATTV" ,SPOTV
+https://slave03.appball.vip/hls/spotv.m3u8
 
 
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.imgur.com/IDMQ2xe.png" group-title="Digital TV",CH7 HD
