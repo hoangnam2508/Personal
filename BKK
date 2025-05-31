@@ -17,7 +17,7 @@ https://edge2a.v2h-cdn.com/hd_one/hd_one.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://i.imgur.com/m4nPR2L.png" ,JKN 18
 https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" ,CH8 
-https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Thairath_TV32.png" ,Thairath TV 
 https://edge2a.v2h-cdn.com/hd_thairath/hd_thairath.stream/playlist.m3u8
 #EXTINF:-1 group-title="CATTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg" ,TNN24 
