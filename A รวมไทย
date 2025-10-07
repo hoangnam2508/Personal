@@ -14,28 +14,18 @@
 "import": false
 },
 {
-"name": "เฒ่าพเนจร",
-"url": "https://freenote.biz/raw/kyqbe0icbs",
+"name": "True PL",
+"url": "https://raw.githubusercontent.com/hanzoblackninja/IPTV-THAI/refs/heads/main/TruePL3.m3u8",
 "import": false
 },
 {
-"name": "Guflix",
-"url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8",
-"import": false
-},
-{
-"name": "fuckidplus",
-"url": "https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u",
-"import": false
-},
-{
-"name": "Doo Tube",
-"url": "https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Tube-Doo-Edit.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=a2j99bwh&dl=0",
+"name": "True thai",
+"url": "https://raw.githubusercontent.com/hanzoblackninja/IPTV-THAI/refs/heads/main/TrueSpotv1.m3u8",
 "import": false
 },
 {
 "name": "Sport TV Thai",
-"url": "https://shorturl.asia/16dcB",
+"url": "https://raw.githubusercontent.com/hanzoblackninja/IPTV-THAI/refs/heads/main/TH-Sport.m3u8",
 "import": false
 },
 ]
