@@ -34,8 +34,13 @@
 "import": false
 },
 {
-"name": "  Doo Free",
+"name": "Doo Free",
 "url": "https://drive.google.com/uc?export=download&id=1e9niRuuVRuXHwU4JGOFkPv-gwKzTy3gz",
+"import": false
+},
+{
+"name": "Movie",
+"url": "https://raw.githubusercontent.com/hanzoblackninja/hanzo/refs/heads/main/Movie.m3u8",
 "import": false
 },
 ]
