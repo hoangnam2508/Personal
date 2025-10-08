@@ -19,6 +19,11 @@
 "import": false
 },
 {
+"name": "TH-ML Sport ",
+"url": "https://raw.githubusercontent.com/hanzoblackninja/IPTV-INTER/refs/heads/main/TH-Malay.m3u8",
+"import": false
+},
+{
 "name": "World New",
 "url": "https://dl.dropboxusercontent.com/scl/fi/ig8y5k5ftkk2qvrsdoyc4/Tube-News.txt?rlkey=6rdnhyjlvrtn5rwgltw5xlmbr&st=ksdiqgk5&dl=0",
 "import": false
