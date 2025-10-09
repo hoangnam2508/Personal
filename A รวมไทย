@@ -29,6 +29,11 @@
 "import": false
 },
 {
+"name": "USA TV",
+"url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+"import": false
+},
+{
 "name": "Doo Tube",
 "url": "http://bit.ly/3HMuep0",
 "import": false
