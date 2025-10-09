@@ -14,6 +14,11 @@
 "import": false
 },
 {
+"name": "Thai TV",
+"url": "https://iptv-org.github.io/iptv/languages/tha.m3u",
+"import": false
+},
+{
 "name": "Sport ",
 "url": "https://raw.githubusercontent.com/hanzoblackninja/IPTV-THAI/refs/heads/main/TH-Sport.m3u8",
 "import": false
