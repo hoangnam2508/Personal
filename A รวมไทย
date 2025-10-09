@@ -34,6 +34,11 @@
 "import": false
 },
 {
+"name": "China TV",
+"url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+"import": false
+},
+{
 "name": "Doo Tube",
 "url": "http://bit.ly/3HMuep0",
 "import": false
