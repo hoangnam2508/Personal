@@ -1,4 +1,9 @@
 {
+"name": "Test",
+"author": "",
+"image": "",
+"stations":  [
+{
 "name": "MONOMAX1",
 "image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
 "url": "https://bestcommt2.github.io/m3u8/monomax1.m3u8",
