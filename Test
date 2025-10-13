@@ -1,40 +1,40 @@
 #EXTM3U
 
 #EXTINF:-1, PremierHD 1
-https://www.livedoomovies.com/PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1, PremierHD 2
-https://www.livedoomovies.com/PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1, PremierHD 3
-https://www.livedoomovies.com/PremierHD3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1, PremierHD 4
-https://www.livedoomovies.com/PremierHD4_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1, PremierHD 5
-https://www.livedoomovies.com/PremierHD5_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1, SportHD 1
-https://www.livedoomovies.com/sporthd1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_sport1_720p/chunklist.m3u8?
 
 #EXTINF:-1, SportHD 2
-https://www.livedoomovies.com/sporthd2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_sport2_720p/chunklist.m3u8?
 
 #EXTINF:-1, SportHD 3
-https://www.livedoomovies.com/sporthd3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_sport3_720p/chunklist.m3u8?
 
 #EXTINF:-1, SportHD 5
-https://www.livedoomovies.com/sporthd5_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_sport5_720p/chunklist.m3u8?
 
 #EXTINF:-1, SportHD 7
-https://www.livedoomovies.com/sporthd7_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_sport7_720p/chunklist.m3u8?
 
 #EXTINF:-1, BEIN SPORT HD 1
-https://sport.livedoomovies.com/epl1_720p/chunklist.m3u8
+https://sport.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1, BEIN SPORT HD 2
-https://sport.livedoomovies.com/epl2_720p/chunklist.m3u8
+https://sport.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1, Spotv 1
 https://www.livedoomovies.com/SPOTV01_720p/chunklist.m3u8
@@ -44,5 +44,5 @@ https://www.livedoomovies.com/SPOTV02_720p/chunklist.m3u8
 
 
 #EXTINF:-1, Tennis HD
-https://www.livedoomovies/TennisHD_720p/chunklist.m3u8
+https://www.livedoomovies/02_TennisHD_720p/chunklist.m3u8
 
