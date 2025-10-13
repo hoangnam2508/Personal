@@ -19,6 +19,11 @@
 "import": false
 },
 {
+"name": "DOOKEELA ",
+"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/Test",
+"import": false
+},
+{
 "name": "Viet-Thai tv ",
 "url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Thailand/LiveTV.m3u",
 "import": false
