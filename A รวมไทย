@@ -3,34 +3,15 @@
 "author": "C",
 "groups": [
 
-{
-"name": "BKK",
-"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/BKK",
-"import": false
-},
+
 {
 "name": "akkradet",
 "url": "https://akkradet.github.io/IPTV-THAI/FREETV.m3u",
 "import": false
 },
 {
-"name": "Thai TV",
-"url": "https://iptv-org.github.io/iptv/languages/tha.m3u",
-"import": false
-},
-{
-"name": "DOOKEELA ",
-"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/Test",
-"import": false
-},
-{
-"name": "Viet-Thai tv ",
+"name": "Viet-Thai TV",
 "url": "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Thailand/LiveTV.m3u",
-"import": false
-},
-{
-"name": "HK Sport ",
-"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/HK%20STV",
 "import": false
 },
 {
@@ -41,6 +22,16 @@
 {
 "name": "USA TV",
 "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+"import": false
+},
+{
+"name": "DOOKEELA ",
+"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/Test",
+"import": false
+},
+{
+"name": "HK Sport ",
+"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/HK%20STV",
 "import": false
 },
 {
