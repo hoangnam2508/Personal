@@ -10,11 +10,6 @@
 "import": false
 },
 {
-"name": "Viet-Thai TV",
-"url": "https://raw.githubusercontent.com/hanzoblackninja/hanzo/refs/heads/main/Movie.m3u8",
-"import": false
-},
-{
 "name": "World New",
 "url": "https://dl.dropboxusercontent.com/scl/fi/ig8y5k5ftkk2qvrsdoyc4/Tube-News.txt?rlkey=6rdnhyjlvrtn5rwgltw5xlmbr&st=ksdiqgk5&dl=0",
 "import": false
@@ -27,16 +22,6 @@
 {
 "name": "  Test",
 "url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/Test",
-"import": false
-},
-{
-"name": "DOOKEELA ",
-"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/Test",
-"import": false
-},
-{
-"name": "HK Sport ",
-"url": "https://raw.githubusercontent.com/hoangnam2508/Personal/refs/heads/main/HK%20STV",
 "import": false
 },
 {
