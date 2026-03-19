@@ -1,0 +1,172 @@
+{
+"name": "Yantech By ส.วิศวะ ",
+"author": "By ส.วิศวะสื่อสาร ",
+"image": "https://img2.pic.in.th/ChatGPT-Image-Feb-11-2026-06_42_37-PM.png",
+"url": "x",
+"groups": [
+
+
+
+{
+"name": "Digital TV",
+"image": "https://www.dropbox.com/scl/fi/h08jdamn1xnxcjoqhdnco/digitall.jpg?rlkey=7jpvjvjygpybw3mi87302qutq&st=0sb2vsji&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=11ZocU_q36HwsTwuT-dGuZm2hc6Gjzarc",
+"import": false
+},
+
+{ 
+"name"		: "รวมกีฬา", 
+"image":"https://www.dropbox.com/scl/fi/vcr4who0xkfy141ss0axd/.jpg?rlkey=a9i9fjom2mugxj2nkq57neuks&st=s8ztnxp6&dl=1",
+"url"		: "https://docs.google.com/uc?export=download&id=1nQAAcuX3dEWdBB1CWeY8s5uqo_xj69ue"
+}, 
+
+{
+"name": "หนัง HD", 
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/hvv82lvzfn27npi773gmk/movie.jpg?rlkey=5w8xd2z3tnlq4h5qrbcv8mo3n&st=ud2osqb3&dl=1", 
+"url": "https://docs.google.com/uc?export=download&id=1EakmaeXSVU4HL23HsSb41cyXjlJ7oB9_",
+"import": "true"
+},
+{
+"name" : "รวมซีรี่ย์่",
+"image" : "https://www.dropbox.com/scl/fi/zmouprzgn5trn7w57i62u/.jpg?rlkey=re0cd69dntoob7wjebv1pe1pc&st=obb9g9sb&dl=1",
+"url"  : "https://docs.google.com/uc?export=download&id=1m-iHWKnI883dzHPGZJECMo4GXMUzSjQa",
+"import": "true"
+},
+{
+"name": "ช่องหนัง ออนไลน์",
+"author": "Yantech",
+"image": "https://www.dropbox.com/scl/fi/eslj8py3zyxuatvypsg28/.jpg?rlkey=yiv6uxvkh2nmhiv4kio7liyx2&st=tmxadpnw&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1rWtTykWRu_SGQcCbOY_vvSQjFlkqzMey",
+"import": "true"
+},
+{
+"name": "สารคดี",
+"image": "https://www.dropbox.com/scl/fi/u0le0rpjk82a5lwkn2ar1/.jpg?rlkey=m0nsxpiu30zht291y45jc1xw1&st=reqfyqkd&dl=1",
+"author": "Yantech", 
+"url": "https://docs.google.com/uc?export=download&id=1EmByi-DuZxh-nC6LBaYitVFDH1KJeUZP",
+"import": false
+},
+{
+"name": "Cartoons", 
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/m2dfhe70opw77dh6lzqzo/.jpg?rlkey=7aglxtggjbu0txrmtv9uwzrmh&st=858mc1m0&dl=1", 
+"url": "https://docs.google.com/uc?export=download&id=1oZCHdnBJat53eg0XZRIP6YKxmeJmm5VB",
+"import": "true"
+},
+{
+"name": "การตูนย์อนิเมชั่น",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/mwe7xchoq5d1k56rbllug/.jpg?rlkey=dxqw1xdci666lygv82ztx97yl&st=q7ubqytk&dl=1",
+"url" : "https://docs.google.com/uc?export=download&id=1iSJvaDOCiEXb7w2-1aU2RrMs_oh5h3I4",
+"import": "true"
+},
+{
+"name": "ละคร ทีวี",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/8et1ujgt61wy7lkmbufp3/.jpg?rlkey=rdlwndt7as50iaeuq9ebvsz2x&st=10hzhsx9&dl=1", 
+"url": "https://docs.google.com/uc?export=download&id=1eXV4F7VPT16ryEdOcJU3X-C_GQGucFSl",
+"import": false
+},
+
+{
+"name": "🎵 ช่องเพลง",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/8k5xw0gkwmbi4ngyc72yo/.jpg?rlkey=ikv1sz27jy49bd49cmpu30vtg&st=p7b86muq&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1aeIYj2VU7qe7j0RbSC2fWNJhqf5F9ZZ-",
+"import": false
+},
+{
+"name": "วิทยุออนไลน์", 
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/pw8au3r3cx3s63e93sisu/.jpg?rlkey=nvqukhff2mo8jbnh1sg9ve4m0&st=pxpd92jb&dl=1", 
+"url": "https://docs.google.com/uc?export=download&id=15zoaOTufm9ef9J9BOzQ0C_BEQ1sYMWbz",
+"import": false
+},
+
+{"name": "คอนเสิร์ต รวม  ",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/mxgytem8nzznzttx2f9tf/.jpg?rlkey=9yd6gbb8nulkboibqf7j95tm0&st=ce2ky8yl&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1hZjgsLveq1lkBH-hu5gZYdSqR5bdlZkD",
+"import": false
+},
+
+{"name": "หนังตะลุง  ",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/v38mejfkfhqxyt93kyjkp/.jpg?rlkey=zyyhzxs5obywdyiq5yod9ulyy&st=kgg76sjt&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1HXoa2FlYMC5AIVz3ghZMVcif8Jxnvy2A",
+"import": false
+},
+{
+"name": "รายการตลก",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/xvqlsrorf05k1mw5xg4zq/.jpg?rlkey=43emikziw5zx1k9y0osneon5p&st=bbucpaq7&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1AySDN2us97OJ1RNqxE40sKI7bXjrsZXh",
+"import": false
+},
+{
+"name":"เรื่องหลอนๆ",
+"author": "Yantech", 
+"image":"https://www.dropbox.com/scl/fi/spd0rgqybzbrv6f5jmk6e/.jpg?rlkey=duacroas48ur9vkaxzhtvu1ly&st=njyvau2f&dl=1",
+"url":"https://docs.google.com/uc?export=download&id=1edkY41rBasa_rHCxVvO5_7y2gg9WqbCZ",
+"import": false
+},	
+{
+"name":"ช่องการศึกษา",
+"author": "Yantech", 
+"image":"https://www.dropbox.com/scl/fi/du662ts81a7tmflv52xqw/.jpg?rlkey=jgfu5hepyp113byfaw7yjjno6&st=c51q15f3&dl=1",
+"url":"https://docs.google.com/uc?export=download&id=1MkVazTWUdZB2L5apQmi37Vxjz9ri3QyU",
+"import": false
+},	
+{
+"name": "ช่อง TV ทั่วโลก",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/888x6yy2p6wcxruij130z/.jpg?rlkey=xngnpic63s9sjw555pesx1hrm&st=47ndka98&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1GzFJL42pc2POBxZXtzByK-z-CBWCXz_q",
+"import": "false"
+}, 
+{
+"name": "News ข่าวทั่วโลก",
+"author": "Yantech", 
+image:"https://www.dropbox.com/scl/fi/0x3rr1seqbw8w89hubvj9/.jpg?rlkey=ifydwtd28oyp5a5oudgjq8m01&st=41fu1a2a&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1wvYVGTnk-Z-4W21r_Io4JSPQC0Adp5Ns",
+"import": "true"
+},
+
+{
+"name": "ดูกล้องวงจรปิด ",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/p3ewttjpe58g255hr7avt/.jpg?rlkey=ec5ncu71tqb2cir8jbg0mzazj&st=ai073bd0&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=19KGCFGHm5D4D-Wcuc4z7rH2uUAqfPq9W",
+"import": "true"
+},
+{
+"name": "ธรรมะ บทสวด",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/ykvvmjbpf9mh9i6uvucdp/.jpg?rlkey=u0rsc3bsl3kw1k18k4lfr4hzp&st=n3133dro&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1WhBud7rahVPGKRH7ng4kRwlrzE4prwC8",
+"import": false
+},
+{
+"name": "หนัง ผู้ใหญ่",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/81k43acb7den7r797fv5j/18.jpg?rlkey=4su93z9tokxwyb91adgtvjhf7&st=t12izn1x&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1jKMRubxcwldyPVb4MzL3YFZd-hMh326A",
+"import": "true"
+},      
+{
+"name": "Link เพื่อนบ้าน",
+"author": "Yantech", 
+"image": "https://www.dropbox.com/scl/fi/7u0jusz7uhsx2pufi9xn4/.jpg?rlkey=5r6dzyuh5umy74znrriexybln&st=k5hcuqbk&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1JJO9jJX0aERPdFItLLMa4kiU14gV6H_j",
+"import": false 
+},
+{
+"name": "ติดต่อ Admin  ",
+"author": "ช่องดับติดปัญหาแจ้งได้",
+"image": "https://www.dropbox.com/scl/fi/nuznehvzz4hh8p5frtt7i/admin.png?rlkey=q6c9nghnvm4e6jxc9rssf96z3&st=m9sgs308&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1rbps4IQ50MKBpDVfVMQ7_YKmR4w824kg",
+"import": "true"
+},   
+
+]}
