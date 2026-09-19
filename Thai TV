@@ -1,0 +1,240 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml" refresh="3600" 
+
+# Join Telegram Group: https://t.me/iptvth
+# =======================================================
+# Playlist Name: Playlist by utf.gg/iptvfree
+# Last Update: 2026-07-22 23:50:09 UTC+07 ICT 
+# #=======================================================
+
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="Asian food" tvg-name="Asian Food" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/2ViJvwI2jKQyt3wmFPZnGSV8P8mYaQbUntitled-1.jpg" group-title="บันเทิง",Asian food network AFN
+https://hls.iptv-th.workers.dev/live/38/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/115_y_CMe1TGxboE3rpW6dVmj5cOqyZaNfkQKD.png",NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
+
+#EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="ThaiPBS.th" tvg-name="TPBS" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/116_y_wetQDATmEJofzrj8pF0CHM6W9LNPcbRn.png",TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/117_y_o1rKZpXcCdnBush2j0etfFxN9DiVzIA4.png",ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
+
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="TV5 HD.th" tvg-name="5HD" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/118_y_GimRnJkEqLtCh2rUueBlFa9oDpNKsvSc.png",5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang (Thai).th" tvg-name="Boomerang" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/153_y_bPNFLtiQaRkr3w0enCSW8AKTzU1p2yxZ.png",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
+#EXTINF:-1 tvg-id="Channel 7.th" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="General",Channel 7
+https://hls.iptv-th.workers.dev/live/129/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="8" ch-number="8" tvg-id="channel 8" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" tvg-chno="8" group-title="Digital TV" tvg-name="Channel 8",Channel8
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://f.ptcdn.info/724/078/000/rjobfgb766TfRTuBg44-o.png" tvg-chno="9" group-title="Digital TV" tvg-name="ช่อง 9",MCOT(HD) 30
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w1829505114_b3000000.m3u8
+
+#EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/120_y_qTpbeRJvL4Nfist0A2IoES7KrD8HXgP5.png",TPTV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
+
+#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/JP8JpTXuXBScqgUTdSv29pfWuoBGaH0moviehits_(1).png" group-title="ภาพยนตร์",True Movie Hits
+https://hls.iptv-th.workers.dev/live/86/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="12" ch-number="12"  tvg-logo="https://s3.dooflixlive.com/assets/images/tv/udUv8r8BboRUntitled-1.jpg" group-title="Digital TV",News1
+https://hls.iptv-th.workers.dev/live/277/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="13" tvg-name="ของดีประเทศไทย" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sMqTXBdzOao123.jpg" group-title="สารคดี", ของดีประเทศไทย*
+https://hls.iptv-th.workers.dev/live/335/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-id="true Thaifilm id" tvg-name="True หนังไทย" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/truethaifilm.png" group-title="ภาพยนตร์",True Thai Film
+https://hls.iptv-th.workers.dev/live/117/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="สำรวจโลก(ไทย-)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU" group-title="สารคดี" , สำรวจโลก(ไทย)
+https://cdn7.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN16.th" tvg-name="TNN16", group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/121_y_vOC9d8VmjNiQJBHf4DEkryalx7XG13PR.png",TNN16
+https://hls.iptv-th.workers.dev/live/142/playlist.m3u8
+
+#EXTINF:-1  tvg-chno="17" ch-number="17" tvg-id="True Explore Wild" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/trueexplorerwild.png" group-title="สารคดี",True Explore Wild
+https://hls.iptv-th.workers.dev/live/118/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="18" ch-number="ของดีประเทศไทบ" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sMqTXBdzOao123.jpg" group-title="สารคดี",ของดีประเทศไทย
+https://hls.iptv-th.workers.dev/live/335/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/bein1.png" group-title="กีฬา",Bein sport 1 HD
+https://hls.iptv-th.workers.dev/live/51/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="20" ch-number="20" tvg-id="Discovery" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/discovery.png" group-title="สารคดี",Discovery Channel
+https://hls.iptv-th.workers.dev/live/69/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="classic" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/ccm.png" group-title="ภาพยนตร์",Celestial Classic Movies
+https://hls.iptv-th.workers.dev/live/34/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation TV.th" tvg-name="NATION" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/123_y_edN0Mnwi3Tl7F9fqz4ELPVkraZh5OybB.png",NATION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="WORKPOINT" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/124_y_wdHhkAYqUKmjbZ1Rz0xSXyCB56o7PuaT.png",WORKPOINT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/146/playlist.m3u8
+#EXTINF:-1 tvg-chno="24" ch-number="24" tvg-id="True4U.th" tvg-name="TRUE24" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/125_y_9yqQrmCd6GNcgesAxhFnKWpwRaUiODEu.png",TRUE24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+
+#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM 25.th" tvg-name="GMM25" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/126_y_d51YIR9mXZCsjbGznegTwoyKqPAEfBUl.png",GMM-25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/132/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="26" ch-number="26" tvg-id="True Explore SCI" tvg-name=""True Explore SCI"" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/documentary/trueexplorersci.png" group-title="สารคดี",True Explore SCI
+https://hls.iptv-th.workers.dev/live/111/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="CH8.th" tvg-name="ช่อง 8 กด27" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/127_y_gEdBMPSmv5QUTxZC02Fj3ulVDWIw8e4N.png",ช่อง 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/131/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="28" ch-number="28" tvg-id="Boomerang" tvg-name="Boomerang" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/173_y_eWScN8UFrhVBEbdlOpns4ki9at53z7wT.png",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29.th" tvg-name="MONO 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title=Digital TV",MONO29 HD
+https://hls.iptv-th.workers.dev/live/134/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT HD.th" tvg-name="MCOT" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/129_y_QM4D2CX1RUHmVaWJcYIKqZowPEjubinT.png",MCOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/133/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE31 HD.th" tvg-name="ONE" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/130_y_9Jka0VhdxwSbtiYqBNXEm5scD2HjzfM8.png",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/138/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath TV.th" tvg-name="THAIRATH" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/131_y_3DPNEFWTadeZ6Jsl9AI10RXbcCkwj7ym.png",THAIRATH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/141/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/132_y_4dCbQViIft2z6KSY9mproWPnRExaDgJG.png",3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/127/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="AmarinTV HD.th" tvg-name="AMARIN" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/133_y_BPJVyimD7beLf4AErFkTjG6ISC0hxWtz.png",AMARIN
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="CH7 HD.th" tvg-name="7 HD" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/134_y_lPVyKhindFZtxqa3DRp8XN2j5QoGfkeL.png",7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV HD.th" tvg-name="PPTV" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/135_y_OLtxS0op951fl2AEcN4PUFyRma6TJWM7.png",PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/139/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="37" ch-number="37" tvg-id="T Sports 7.th" tvg-name="TSPORT 7" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/119_y_deNSTkCFva2lptu4qOEBWX1P6R3gYA8c.png",TSPORT 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/116/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" group-title="Sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/ePP8UaRIcYsmjtmNcbGrN9pXvcChPTZdreamwork.png" group-title="ภาพยนตร์",Dreamwork
+https://hls.iptv-th.workers.dev/live/59/playlist.m3u8
+
+#EXTINF:-1  tvg-id="Warner" ch-number="40" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/wbtv.png" group-title="ภาพยนตร์",Warner TV
+https://hls.iptv-th.workers.dev/live/120/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DLTV 41.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="Education",DLTV 1 (1080p)
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV 42.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="Education",DLTV 2 (1080p)
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="Education",DLTV 3 (1080p)
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="Education",DLTV 4 (1080p)
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="Education",DLTV 5 (1080p)
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="Education",DLTV 6 (1080p)
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="Education",DLTV 7 (1080p)
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="Education",DLTV 8 (1080p)
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="Education",DLTV 9 (1080p)
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="Education",DLTV 10 (1080p)
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="Education",DLTV 11 (1080p)
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="Education",DLTV 12 (1080p)
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="Education",DLTV 13 (1080p)
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="Education",DLTV 14 (1080p)
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="55 DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="Education",DLTV 15 (1080p)
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-logo-small="http://thaiip.tv/tvlogo2/dw-en.png" tvg-logo="http://thaiip.tv/tvlogo2/dw-en.png" tvg-chno="56" group-title="International" tvg-name="DW Enlish",DW Enlish
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="CNN" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/gtto7ncVZ9FpJdIMhLPdKDHKeu03eNEcnn.png" group-title="ข่าวต่างประเทศ",CNN
+https://hls.iptv-th.workers.dev/live/56/playlist.m3u8
+
+#EXTINF:-1 vg-chno="58" tvg-id="CNBC" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/AhM2QQMguVntmxzQCGx4RUh5noGEa8sUntitled-1-Recovered.jpg" group-title="ข่าวต่างประเทศ",CNBC
+https://hls.iptv-th.workers.dev/live/244/playlist.m3u8
+    
+#EXTINF:-1 vg-chno="59" tvg-id="BBC" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/O3xeqWC09NE7nNz9Cwr9IGLZTqxjkwwbbcnews.png" group-title="ข่าวต่างประเทศ",BBC News
+https://hls.iptv-th.workers.dev/live/50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-logo-small="http://thaiip.tv/tvlogo2/arirang.png" tvg-logo="http://thaiip.tv/tvlogo2/arirang.png" tvg-chno="59" group-title="International" tvg-name="Arirang",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-id="NHK" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/KIRPvITufE2HQJxGUDutfgEzIZcrVwknhk.png" group-title="ข่าวต่างประเทศ",NHK
+https://hls.iptv-th.workers.dev/live/90/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-id="Aljazeera" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/OfdIVgwT2z37JushUjrBKuHupl2ZuXhaljazeera.png" group-title="ข่าวต่างประเทศ",Aljazeera
+https://hls.iptv-th.workers.dev/live/46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png", Chiangrai Channel 
+http://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+#EXTINF:-1 tvg-id="64" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/h2vv1IuK5HG1NLi6SGFJh248qYS8JIetruefilmhd.png" group-title="ภาพยนตร์",True Film HD
+https://hls.iptv-th.workers.dev/live/101/playlist.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/entertain/truexzyte.png" group-title="บันเทิง",True Xzyte
+https://hls.iptv-th.workers.dev/live/121/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="66"  tvg-name=""Good tv" tvg-name="Good tv" group-title="สารคดี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",สารคดี Good TV
+https://hls.iptv-th.workers.dev/live/94/playlist.m3u8
+#EXTINF:-1 tvg-id="67" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/digital/topnews.png" group-title="ดิจิตอลทีวี",Top News
+https://hls.iptv-th.workers.dev/live/143/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/movie/cinemax.png" group-title="ภาพยนตร์",Cinemax
+https://hls.iptv-th.workers.dev/live/62/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="69" tvg-id="TVB Thai" tvg-logo-small="http://thaiip.tv/tvlogo2/tvb.png" tvg-logo="http://thaiip.tv/tvlogo2/tvb.png" tvg-chno="68" group-title="Thailand" tvg-name="TVB ไทย",TVB ไทย
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w1508962232.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-id="Cable 37" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png", Cable 37 
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/dbLFi1PM8pqrH4pVCbR3HxZmYdQQP0z1245.jpg" group-title="สารคดี",Animal show
+https://hls.iptv-th.workers.dev/live/329/playlist.m3u8
+
+#EXTINF:-1 tvg-id="72" logo="https://s3.dooflixlive.com/assets/images/tv/lCrOElry5MTJ3aGNq3GN8UlIRQ7LS4rtrueseries.png" group-title="ภาพยนตร์",True Series
+https://hls.iptv-th.workers.dev/live/112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="73" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/NFfkK0MK/IMG-2550.png", TTD5
+https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8
+#EXTINF:-1 tvg-chno="74" ch-number="74" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/CgLZMVLSZKNMMeGb1H5n2iiN37ODTzl3-logo-3BB-Asian-ช่องรายการ_370x180_(1).jpeg" group-title="ภาพยนตร์",3BB Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls.iptv-th.workers.dev/live/44/playlist.m3u8
+
+#EXTINF:-1 tvg-id="75" tvg-logo-small="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg" tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg" tvg-chno="75" group-title="CableTV" tvg-name="Cable Series 1",Cable Series 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="RT" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/GG7O8vEuwZxUntitled-1.jpg" group-title="ข่าวต่างประเทศ",RT - Breaking News
+https://hls.iptv-th.workers.dev/live/270/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-id="Topnews" ch-number="77" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cropped-topnews-logo.png",TopNews 77 online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
